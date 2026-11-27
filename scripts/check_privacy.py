@@ -34,17 +34,25 @@ EXAMPLE_DOMAINS = ("example.com", "example.org", "example.net", "example.cz")
 SKIP_SUFFIXES = {".pyc", ".png", ".jpg", ".jpeg", ".ico", ".gif", ".db", ".sqlite", ".woff", ".woff2"}
 SKIP_DIRS = {".git", "__pycache__", ".pytest_cache", ".venv", "venv", "node_modules"}
 
+# The shipped SOVM dataset is open data (DIA declares it contains no personal data), so its
+# e-mail column is expected. Everything else — phones, paths, secrets — is still checked there,
+# and the header must match, so the file cannot silently become a dumping ground.
+DATA_FILES = {
+    "data/matriky-cz.csv": ("kod_uradu", "nazev_uradu", "obec", "kraj", "lat", "lon", "email")
+}
+
 
 def _is_example_email(match: re.Match) -> bool:
     domain = match.group(0).split("@", 1)[1].lower()
     return any(domain == allowed or domain.endswith("." + allowed) for allowed in EXAMPLE_DOMAINS)
 
 
-def scan_line(line: str, where: str) -> list[str]:
+def scan_line(line: str, where: str, allow_email: bool = False) -> list[str]:
     hits = []
-    for match in EMAIL.finditer(line):
-        if not _is_example_email(match):
-            hits.append(f"{where}: e-mail mimo example.*: {match.group(0)[:60]}")
+    if not allow_email:
+        for match in EMAIL.finditer(line):
+            if not _is_example_email(match):
+                hits.append(f"{where}: e-mail mimo example.*: {match.group(0)[:60]}")
     match = PHONE.search(line)
     if match:
         hits.append(f"{where}: telefonní číslo: {match.group(0).strip()}")
@@ -68,9 +76,15 @@ def scan(paths: list[Path]) -> list[str]:
     for path in paths:
         if path.suffix.lower() in SKIP_SUFFIXES or not path.is_file():
             continue
+        key = path.as_posix()
+        allow_email = key in DATA_FILES
         text = path.read_text(encoding="utf-8", errors="replace")
+        if allow_email:
+            header = tuple(text.splitlines()[0].split(";")) if text else ()
+            if not header[: len(DATA_FILES[key])] == DATA_FILES[key]:
+                hits.append(f"{key}:1: datový soubor nemá očekávanou hlavičku")
         for number, line in enumerate(text.splitlines(), 1):
-            hits.extend(scan_line(line, f"{path}:{number}"))
+            hits.extend(scan_line(line, f"{path}:{number}", allow_email=allow_email))
     return hits
 
 

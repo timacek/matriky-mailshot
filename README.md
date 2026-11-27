@@ -18,6 +18,7 @@ Google (max. 450 zpráv za posledních 24 h) a mezi zprávami čeká 15 s.
 | Skript | Co dělá |
 |---|---|
 | `scripts/prepare.py` | načte CSV seznam adresátů, zvaliduje a deduplikuje e-maily, naplní SQLite frontu |
+| `scripts/build_recipients.py` | postaví seznam úřadů z otevřených dat SOVM a vygeneruje `data/recipients.txt` |
 | `scripts/auth.py` | jednorázové OAuth přihlášení, uloží token mimo repo |
 | `scripts/send.py` | posílá dávky (výchozí 18 zpráv), lepí Gmail štítek, hlídá 450/24 h a pracovní dobu |
 | `scripts/watch.py` | kontroluje inbox i spam, pozná odpověď / automatickou odpověď / bounce, zapíše do DB a oznámí |
@@ -48,8 +49,9 @@ cp config.example.json config.json
 python scripts/auth.py          # otevře prohlížeč, uloží token do ~/.config/matriky-mailshot/
 
 # 4. seznam adresátů
-cp data/example-recipients.txt data/recipients.txt
-# nahraď ukázkové řádky skutečnými (formát níže)
+python scripts/build_recipients.py --emit      # z přiloženého seznamu 1 266 matrik
+# nebo vlastní seznam:
+# cp data/example-recipients.txt data/recipients.txt  (a nahraď ukázkové řádky)
 
 # 5. zkouška nanečisto
 python scripts/prepare.py --dry-run
@@ -121,15 +123,35 @@ poradi;vzdalenost_km;vybrany_email;nazev_uradu;obec;kraj;kod_uradu;lat;lon
 | `nazev_uradu`, `obec` | vkládají se do šablony jako `{{URAD}}` a `{{OBEC}}` |
 | `kraj`, `kod_uradu`, `lat`, `lon` | jen evidence a dashboard |
 
-Seznam matričních úřadů si sestavte sami (veřejné seznamy úřadů, weby měst);
-repo záměrně neobsahuje žádný reálný seznam ani vzdálenosti.
+Přiložený seznam (`data/matriky-cz.csv`) se do tohoto formátu převádí příkazem
+`python scripts/build_recipients.py --emit`. Vzdálenosti v datech nejsou — sloupec
+`vzdalenost_km` je `0`, takže pořadí určuje kód úřadu. Chcete-li posílat „od nejbližšího",
+doplňte si vlastní hodnoty (např. z kilometrovníku).
+
+## Seznam matrik (1 266 úřadů)
+
+Repo obsahuje **kompletní seznam matričních úřadů ČR s oficiálními kontakty** —
+`data/matriky-cz.csv`. Nemusíte nic dolovat z webů měst:
+
+- **1 216 z 1 266** úřadů má e-mail, zbytek (i s důvodem) je v `data/missing-contacts.csv`;
+  u úřadů bez e-mailu je v datech IČO a ID datové schránky.
+- identifikace úřadů pochází z Přílohy č. 5 národního standardu pro elektronické vedení
+  matriky (MVČR), kontakty z **SOVM** (Czech POINT / DIA) — otevřená data s denní aktualizací.
+- zdroj, licenční režim a pokrytí jsou popsané v [`data/README.md`](data/README.md).
+- kontakty se v čase mění; obnovit je umí `python scripts/build_recipients.py --index …`
+  (viz `docs/provoz.md`).
+
+Tohle není marketingová databáze — jsou to kontaktní údaje úřadů pro jednání s úřadem.
+Oslovujte je věcně a ideálně jednou.
 
 ## Kde co je
 
 ```text
 config.json              vaše nastavení (vypnuté z gitu)
 credentials.json         OAuth client z Google Cloud (vypnuté z gitu)
-data/recipients.txt      vstupní seznam (vypnuté z gitu)
+data/matriky-cz.csv      seznam 1 266 matričních úřadů s kontakty (SOVM)
+data/missing-contacts.csv úřady bez dohledaného kontaktu + důvod
+data/recipients.txt      vstupní seznam pro sender (generuje build_recipients.py)
 data/mailshot.db         SQLite: recipients, mail, replies, meta
 logs/mailshot.log        JSON řádky o každém odeslání a odpovědi
 templates/email.html     HTML šablona (600px tabulka, inline CSS)
@@ -167,17 +189,21 @@ a znovu zapnout oba joby; fronta naváže tam, kde skončila.
 
 ## Soukromí
 
-Repo záměrně neobsahuje žádný reálný seznam adresátů, žádnou korespondenci ani
-templates z konkrétní kampaně. Před každým pushem spusťte:
+Repo neobsahuje nic z konkrétní kampaně: žádnou korespondenci, žádné jméno odesílatele,
+žádné vzdálenosti. Obsahuje ale seznam matričních úřadů (`data/matriky-cz.csv`) — je to
+otevřená datová sada SOVM, u které správce v Národním katalogu dat deklaruje, že neobsahuje
+osobní údaje, a přebírá se s uvedením zdroje (viz [`data/README.md`](data/README.md)).
+
+Před každým pushem spusťte:
 
 ```bash
 python scripts/check_privacy.py
 ```
 
-Skript projde soubory sledované gitem a selže (exit 1), když najde e-mail mimo
-doménu `example.*`, české telefonní číslo, absolutní cestu na disk nebo stopu
-soukromého nastavení. Konfigurace, databáze, logy a tokeny jsou v `.gitignore` —
-do gitu se nedostanou ani omylem.
+Skript projde soubory sledované gitem a selže (exit 1), když najde e-mail mimo doménu
+`example.*` (výjimkou je datový soubor, jehož hlavička musí odpovídat očekávanému schématu),
+české telefonní číslo, absolutní cestu na disk nebo stopu soukromého nastavení. Konfigurace,
+databáze, logy a tokeny jsou v `.gitignore` — do gitu se nedostanou ani omylem.
 
 ## Licence
 

@@ -1,0 +1,51 @@
+kod_uradu;nazev_uradu;obec;kraj;duvod
+00116;Úřad městské části Praha 17 - Matrika;Praha 6;Hlavní město Praha;sovm_bez_emailu
+00183;Úřad městské části Praha 18 - Matrika;Praha 9;Hlavní město Praha;sovm_bez_emailu
+00345;Městský úřad Týnec nad Sázavou - Matrika;Týnec nad Sázavou;Středočeský;sovm_bez_emailu
+00850;Úřad městyse Nové Dvory - Matrika;Nové Dvory;Středočeský;nema_sovm_zaznam
+01082;Úřad městyse Všetaty - Matrika;Všetaty;Středočeský;nema_sovm_zaznam
+01210;Městský úřad Kosmonosy - Matrika;Kosmonosy;Středočeský;sovm_bez_emailu
+01694;Městský úřad Roztoky - Matrika (okr. Praha-západ);Roztoky;Středočeský;nema_sovm_zaznam
+01775;Městský úřad Příbram - Matrika;Příbram;Středočeský;sovm_bez_emailu
+01945;Obecní úřad Petrovice - Matrika (okr. Příbram);Petrovice;Středočeský;nema_sovm_zaznam
+02020;Městský úřad Jesenice - Matrika (okr. Rakovník);Jesenice;Středočeský;nema_sovm_zaznam
+02038;Úřad městyse Kněževes - Matrika;Kněževes;Středočeský;nema_sovm_zaznam
+02127;Obecní úřad Petrovice - Matrika (okres. Rakovník);Petrovice;Středočeský;nema_sovm_zaznam
+02135;Obecní úřad Roztoky - Matrika (okres. Rakovník);Roztoky;Středočeský;nema_sovm_zaznam
+02194;Magistrát města České Budějovice - Matrika;České Budějovice;Jihočeský;sovm_bez_emailu
+02755;Městský úřad Písek - Matrika;Písek;Jihočeský;sovm_bez_emailu
+02984;Městský úřad Vlachovo Březí - Matrika;Vlachovo Březí;Jihočeský;sovm_bez_emailu
+04189;Úřad městyse Stráž - Matrika;Stráž;Plzeňský;nema_sovm_zaznam
+04510;Městský úřad Sokolov - Matrika;Sokolov;Karlovarský;sovm_bez_emailu
+04529;Městský úřad Březová - Matrika (Karlovarský kraj);Březová;Karlovarský;nema_sovm_zaznam
+04537;Obecní úřad Bukovany - Matrika;Bukovany;Karlovarský;sovm_bez_emailu
+04863;Městský úřad Budyně nad Ohří - Matrika;Budyně nad Ohří;Ústecký;sovm_bez_emailu
+05380;Městský úřad Chlumec - Matrika;Chlumec;Ústecký;sovm_bez_emailu
+05649;Magistrát města Liberec - Matrika;Liberec;Liberecký;sovm_bez_emailu
+05665;Úřad městského obvodu Liberec-Vratislavice nad Nisou - Matrika;Liberec;Liberecký;sovm_bez_emailu
+05703;Městský úřad Hodkovice nad Mohelkou - Matrika;Hodkovice nad Mohelkou;Liberecký;sovm_bez_emailu
+05975;Obecní úřad Praskačka - Matrika;Praskačka;Královéhradecký;sovm_bez_emailu
+06130;Obecní úřad Bohuslavice - Matrika (Královehradecký kraj);Bohuslavice;Olomoucký;nema_sovm_zaznam
+06220;Městský úřad Nové Město nad Metují - Matrika;Nové Město nad Metují;Královéhradecký;sovm_bez_emailu
+07080;Městský úřad Žamberk - Matrika;Žamberk;Pardubický;sovm_bez_emailu
+07676;Úřad městyse Opatov - Matrika;Opatov;Vysočina;nema_sovm_zaznam
+08281;Úřad městské části Brno-Královo Pole - Matrika;Brno;Jihomoravský;sovm_bez_emailu
+08532;Obecní úřad Troubsko - Matrika;Troubsko;Jihomoravský;sovm_bez_emailu
+08753;Městský úřad Podivín - Matrika;Podivín;Jihomoravský;sovm_bez_emailu
+10073;Obecní úřad Bohuslavice - Matrika (Olomoucký kraj);Bohuslavice;Olomoucký;nema_sovm_zaznam
+10103;Obecní úřad Čechy pod Kosířem - Matrika;Čechy pod Kosířem;Olomoucký;sovm_bez_emailu
+10367;Městský úřad Kojetín - Matrika;Kojetín;Olomoucký;sovm_bez_emailu
+10383;Městský úřad Lipník nad Bečvou - Matrika;Lipník nad Bečvou;Olomoucký;sovm_bez_emailu
+10529;Městský úřad Hanušovice - Matrika;Hanušovice;Olomoucký;sovm_bez_emailu
+10804;Městský úřad Uherské Hradiště - Matrika;Uherské Hradiště;Zlínský;sovm_bez_emailu
+10880;Obecní úřad Březová - Matrika (Zlínský kraj);Březová;Zlínský;nema_sovm_zaznam
+11550;Obecní úřad Újezd - Matrika (Zlínský kraj);Újezd;Zlínský;sovm_bez_emailu
+11584;Městský úřad Vizovice - Matrika;Vizovice;Zlínský;sovm_bez_emailu
+11649;Obecní úřad Dvorce - Matrika;Dvorce;Moravskoslezský;sovm_bez_emailu
+11860;Obecní úřad Horní Bludovice - Matrika;Horní Bludovice;Moravskoslezský;sovm_bez_emailu
+11975;Obecní úřad Raškovice - Matrika;Raškovice;Moravskoslezský;sovm_bez_emailu
+12165;Obecní úřad Petrovice u Karviné - Matrika;Petrovice u Karviné;Moravskoslezský;sovm_bez_emailu
+12173;Městský úřad Petřvald - Matrika (okr. Karviná);Petřvald;Moravskoslezský;nema_sovm_zaznam
+12335;Městský úřad Odry - Matrika;Odry;Moravskoslezský;sovm_bez_emailu
+12343;Obecní úřad Petřvald - Matrika (okr. Nový Jičín);Petřvald;Moravskoslezský;nema_sovm_zaznam
+12807;Městský úřad Jesenice - Matrika (okres Praha-západ);Jesenice;Středočeský;nema_sovm_zaznam

@@ -81,6 +81,26 @@ Po odeslání celé fronty health jednou pošle `✅ Mailshot: fronta prázdná 
 a zapíše `done_at`; od té chvíle už neupozorňuje. Potom vypněte sender i health,
 watcher nechte ještě pár dní běžet podle `watch_until`.
 
+## Aktualizace kontaktů ze SOVM
+
+Seznam úřadů (`data/matriky-cz.csv`) má kontakty ze SOVM ke dni snapshotu. SOVM se
+aktualizuje denně, takže před novou kampaní je rozumné kontakty obnovit:
+
+```bash
+python scripts/build_recipients.py \
+  --index https://www.czechpoint.gov.cz/spravadat/ovm/datafile.do?format=xml&service=seznamovm
+python scripts/build_recipients.py --emit      # data/recipients.txt pro sender
+```
+
+Skript vypíše `sovm_matched`, `with_email`, `no_email` a `unmatched` a přepíše
+`data/missing-contacts.csv` — to je seznam úřadů, které je potřeba doplnit ručně
+(např. z jejich webu nebo přes datovou schránku). Párování jde nejdřív podle jádra
+názvu úřadu („Městská část Praha 10" = „Úřad městské části Praha 10"), teprve pak
+podle obce; obec se použije jen když je v ní jediný úřad, aby Praha 9 nedostala
+e-mail Prahy 14.
+
+Bez sítě to jde i z lokálního souboru: `--index sovm-index.xml` (gzip i plain XML).
+
 ## Logy a úklid
 
 - `logs/mailshot.log` — JSON řádek na každé odeslání, odpověď a selhání notifikace.
