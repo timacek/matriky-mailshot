@@ -1,0 +1,4 @@
+poradi;vzdalenost_km;vybrany_email;nazev_uradu;obec;kraj;kod_uradu;lat;lon
+1;0.00;matrika@example.com;Městský úřad Ukázka;Ukázka;Ukázkový kraj;1001;50.000000;14.000000
+2;5.20;matrika2@example.org;Úřad Ukázka 2;Ukázka 2;Ukázkový kraj;1002;50.100000;14.100000
+3;12.40;matrika3@example.net;Úřad Ukázka 3;Ukázka 3;Ukázkový kraj;1003;50.200000;14.200000

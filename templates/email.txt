@@ -1,0 +1,19 @@
+Dobrý den,
+
+obracíme se na Vás s prosbou o krátký obřad (15–20 minut) v termínu {{TERMIN}}.
+
+Stačí nám obřad bez hostů v kteroukoli dobu, včetně mimo úřední hodiny; s případným
+poplatkem za obřad mimo úřední dobu počítáme. Po obřadu potřebujeme pouze potvrzenou
+kopii protokolu, doklad si vyzvedneme později podle Vašich možností.
+
+Doklady i dotazníky můžeme poslat předem e-mailem ke kontrole. Najde se u Vás prosím
+20 minut času? Budeme vděční za rychlou odpověď nebo zavolání.
+
+Děkujeme a zdravíme,
+
+{{ODESILATEL}}
+
+Tel.: {{TELEFON}}
+
+--
+Zpráva zaslána na {{URAD}} ({{OBEC}}) dne {{DATE}}.

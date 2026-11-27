@@ -1,0 +1,50 @@
+{
+  "source_list": "./data/recipients.txt",
+  "db_path": "./data/mailshot.db",
+  "dashboard_path": "./web/index.html",
+  "log_path": "./logs/mailshot.log",
+  "templates_dir": "./templates",
+  "credentials_path": "./credentials.json",
+  "token_path": "",
+  "from_email": "vas.email@example.com",
+  "from_name": "Vaše Jméno",
+  "reply_to": "vas.email@example.com",
+  "subject": "Prosba o krátký obřad",
+  "label_name": "Matrika",
+  "subject_mark": "",
+  "placeholders": {
+    "ODESILATEL": "Vaše Jméno",
+    "TELEFON": "+420 xxx xxx xxx",
+    "TELEFON_TEL": "+420xxxxxxxxx",
+    "TERMIN": "1.–5. 1. 2027"
+  },
+  "daily_cap": 450,
+  "interval_seconds": 15,
+  "batch_limit": 18,
+  "send_window": {
+    "enabled": true,
+    "start_hour": 7,
+    "end_hour": 19
+  },
+  "watch_days": 2,
+  "watch_until": "2099-12-31",
+  "timezone": "Europe/Prague",
+  "paused": {
+    "active": false,
+    "since": "",
+    "reason": ""
+  },
+  "health": {
+    "watch_stale_minutes": 45,
+    "send_stale_minutes": 30,
+    "online_stale_minutes": 35,
+    "alert_cooldown_minutes": 360
+  },
+  "notify": {
+    "type": "none",
+    "webhook_url": ""
+  },
+  "test_recipients": [
+    "vas.email@example.com"
+  ]
+}

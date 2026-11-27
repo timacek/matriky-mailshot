@@ -1,0 +1,19 @@
+# soukromé a generované — nikdy do gitu
+config.json
+credentials.json
+token.json
+*.local.json
+data/*.db
+data/*.db-wal
+data/*.db-shm
+data/recipients.txt
+data/send.lock
+logs/
+web/
+.env
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
