@@ -133,8 +133,11 @@ doplňte si vlastní hodnoty (např. z kilometrovníku).
 Repo obsahuje **kompletní seznam matričních úřadů ČR s oficiálními kontakty** —
 `data/matriky-cz.csv`. Nemusíte nic dolovat z webů měst:
 
-- **1 216 z 1 266** úřadů má e-mail, zbytek (i s důvodem) je v `data/missing-contacts.csv`;
-  u úřadů bez e-mailu je v datech IČO a ID datové schránky.
+- **Snapshot 27. 11. 2026:** 1 266 úřadů, z toho **1 216 s e-mailem** — 1 069 institucionálních
+  schránek (`matrika@`, `podatelna@`, `ou@`…) a 147 jmenných schránek úředníků.
+- **50 úřadů bez kontaktu:** 33 má v SOVM záznam bez e-mailu (v datech je proto aspoň IČO
+  a ID datové schránky), 17 v SOVM vůbec není. Všechny i s důvodem jsou v
+  `data/missing-contacts.csv` a rozepsané v [`data/README.md`](data/README.md#kde-jsme-to-vzdali-50-úřadů).
 - identifikace úřadů pochází z Přílohy č. 5 národního standardu pro elektronické vedení
   matriky (MVČR), kontakty z **SOVM** (Czech POINT / DIA) — otevřená data s denní aktualizací.
 - zdroj, licenční režim a pokrytí jsou popsané v [`data/README.md`](data/README.md).

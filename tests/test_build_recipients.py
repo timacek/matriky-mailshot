@@ -154,6 +154,14 @@ def test_core_match_without_email_does_not_fall_back_to_another_office():
     assert stats["no_email"] == []
 
 
+def test_is_role_mailbox_ignores_the_domain():
+    assert build.is_role_mailbox("posta@mesto.example.com") is True
+    assert build.is_role_mailbox("obec.babice@example.org") is True
+    assert build.is_role_mailbox("ou@example.com") is True
+    assert build.is_role_mailbox("katerina.moravcova@mesto.example.com") is False
+    assert build.is_role_mailbox("dohnalova@mesto.example.com") is False
+
+
 def test_looks_personal_flags_names_but_not_role_boxes():
     assert build.looks_personal("jana.novakova@example.com") is True
     assert build.looks_personal("dohnalova@example.com") is True

@@ -29,7 +29,7 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 09504;Úřad městyse Blížkovice - Matrika;Blížkovice;Jihomoravský;48.99976;15.83482;obec@blizkovice.cz;1;podatelna@blizkovice.cz;00292516;bvsbfhv;SOVM/DIA;2026-11-27
 09270;Obecní úřad Bohdalice-Pavlovice - Matrika;Bohdalice-Pavlovice;Jihomoravský;49.22041;17.03517;obec@bohdalice.cz;1;"starosta@bohdalice.cz;matrika@bohdalice.cz;ucetni@bohdalice.cz";00291641;v8ybhk7;SOVM/DIA;2026-11-27
 08613;Úřad městyse Boleradice - Matrika;Boleradice;Jihomoravský;48.96668;16.81392;obec@boleradice.cz;1;;00283011;ur9bfec;SOVM/DIA;2026-11-27
-08052;Městský úřad Boskovice - Matrika;Boskovice;Jihomoravský;49.48751;16.65997;epodatelna@boskovice.cz;2;mu@boskovice.cz;00279978;qmkbq7h;SOVM/DIA;2026-11-27
+08052;Městský úřad Boskovice - Matrika;Boskovice;Jihomoravský;49.48751;16.65997;mu@boskovice.cz;1;epodatelna@boskovice.cz;00279978;qmkbq7h;SOVM/DIA;2026-11-27
 08044;Obecní úřad Bořitov - Matrika;Bořitov;Jihomoravský;49.42504;16.59119;podatelna@boritov.cz;2;;00279960;7q5bq97;SOVM/DIA;2026-11-27
 09512;Obecní úřad Božice - Matrika;Božice;Jihomoravský;48.83687;16.28875;oubozice@volny.cz;1;;00292567;72jbfc8;SOVM/DIA;2026-11-27
 09288;Úřad městyse Brankovice - Matrika;Brankovice;Jihomoravský;49.15598;17.13480;oubrankovice@seznam.cz;1;;00291668;dnqbfcn;SOVM/DIA;2026-11-27
@@ -67,7 +67,7 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 08974;Obecní úřad Hrubá Vrbka - Matrika;Hrubá Vrbka;Jihomoravský;48.87188;17.47701;hruba.vrbka@iol.cz;1;;00284921;9mjbdys;SOVM/DIA;2026-11-27
 09539;Městský úřad Hrušovany nad Jevišovkou - Matrika;Hrušovany nad Jevišovkou;Jihomoravský;48.82991;16.40271;info@hrusovany.cz;2;;00292877;yuabdyv;SOVM/DIA;2026-11-27
 08656;Městský úřad Hustopeče - Matrika;Hustopeče;Jihomoravský;48.94085;16.73762;podatelna@hustopece-city.cz;1;posta@hustopece-city.cz;00283193;z34bt3y;SOVM/DIA;2026-11-27
-09318;Úřad městyse Hvězdlice - Matrika;Hvězdlice;Jihomoravský;49.19334;17.08474;ouhvezdlice@infos.cz;1;"ouhvezdlice.starosta@infos.cz;ouhvezdlice.ucetni@infos.cz";00291811;yy9bubi;SOVM/DIA;2026-11-27
+09318;Úřad městyse Hvězdlice - Matrika;Hvězdlice;Jihomoravský;49.19334;17.08474;ouhvezdlice.starosta@infos.cz;1;"ouhvezdlice@infos.cz;ouhvezdlice.ucetni@infos.cz";00291811;yy9bubi;SOVM/DIA;2026-11-27
 09326;Městský úřad Ivanovice na Hané - Matrika;Ivanovice na Hané;Jihomoravský;49.30542;17.09343;mesto@ivanovicenahane.cz;1;posta@ivanovicenahane.cz;00291846;hqrbdwa;SOVM/DIA;2026-11-27
 08397;Městský úřad Ivančice - Matrika;Ivančice;Jihomoravský;49.10144;16.37752;info@muiv.cz;1;;00281859;sh2bdw6;SOVM/DIA;2026-11-27
 08664;Obecní úřad Ivaň - Matrika;Ivaň;Jihomoravský;48.92971;16.57574;ouivan@iol.cz;1;;00600164;3bbbdwy;SOVM/DIA;2026-11-27
@@ -98,7 +98,7 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 08150;Úřad městyse Lomnice - Matrika (Jihomoravský kraj);Lomnice;Jihomoravský;49.40462;16.41359;lomnice@volny.cz;1;;00280577;jk4bcy2;SOVM/DIA;2026-11-27
 09032;Obecní úřad Lovčice - Matrika;Lovčice;Jihomoravský;49.06358;17.05428;ou.lovcice@iol.cz;1;;00285072;gfybcxm;SOVM/DIA;2026-11-27
 09040;Obecní úřad Lužice - Matrika;Lužice;Jihomoravský;48.84098;17.07104;obec@luziceuhodonina.cz;1;podatelna@luziceuhodonina.cz;44164343;tqabcvi;SOVM/DIA;2026-11-27
-08168;Úřad městyse Lysice - Matrika;Lysice;Jihomoravský;49.45160;16.53716;pokladna@obec.lysice.cz;1;starosta@obec.lysice.cz;00280615;aheb3ze;SOVM/DIA;2026-11-27
+08168;Úřad městyse Lysice - Matrika;Lysice;Jihomoravský;49.45160;16.53716;starosta@obec.lysice.cz;1;pokladna@obec.lysice.cz;00280615;aheb3ze;SOVM/DIA;2026-11-27
 08729;Městský úřad Mikulov - Matrika;Mikulov;Jihomoravský;48.80556;16.63780;podatelna@mikulov.cz;1;;00283347;wp6bvkp;SOVM/DIA;2026-11-27
 09571;Úřad městyse Mikulovice - Matrika (Jihomoravský kraj);Mikulovice;Jihomoravský;48.95678;16.09468;obec.mikulovice@tiscali.cz;1;obec.mikulovice@seznam.cz;00293148;b9jbuad;SOVM/DIA;2026-11-27
 09059;Obecní úřad Mikulčice - Matrika;Mikulčice;Jihomoravský;48.81643;17.05107;obecmikulcice@seznam.cz;1;;00285102;jbjby8z;SOVM/DIA;2026-11-27
@@ -143,7 +143,7 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 08486;Obecní úřad Sokolnice - Matrika;Sokolnice;Jihomoravský;49.11392;16.72156;obec@sokolnice.cz;2;;00282596;a2mbbe3;SOVM/DIA;2026-11-27
 09130;Městský úřad Strážnice - Matrika;Strážnice;Jihomoravský;48.90102;17.31680;podatelna@straznice-mesto.cz;1;;00285315;ngpby9e;SOVM/DIA;2026-11-27
 08494;Obecní úřad Střelice - Matrika;Střelice;Jihomoravský;49.15221;16.50399;obecstrelice@seznam.cz;1;strelice@streliceubrna.cz;00282618;gezbr3z;SOVM/DIA;2026-11-27
-09148;Obecní úřad Svatobořice-Mistřín - Matrika;Svatobořice-Mistřín;Jihomoravský;48.97575;17.08837;mistostarostka@svatoborice-mistrin.cz;1;"matrika@svatoborice-mistrin.cz;info@svatoborice-mistrin.cz;obec@svatoborice-mistrin.cz";00285358;siwba5v;SOVM/DIA;2026-11-27
+09148;Obecní úřad Svatobořice-Mistřín - Matrika;Svatobořice-Mistřín;Jihomoravský;48.97575;17.08837;matrika@svatoborice-mistrin.cz;1;"info@svatoborice-mistrin.cz;obec@svatoborice-mistrin.cz;mistostarostka@svatoborice-mistrin.cz";00285358;siwba5v;SOVM/DIA;2026-11-27
 08222;Úřad městyse Svitávka - Matrika;Svitávka;Jihomoravský;49.50178;16.59793;info@svitavka.com;1;;00281042;pdsba4g;SOVM/DIA;2026-11-27
 08524;Městský úřad Tišnov - Matrika;Tišnov;Jihomoravský;49.34872;16.42438;urad@tisnov.cz;1;epodatelna@tisnov-mesto.cz;00282707;qzjbhat;SOVM/DIA;2026-11-27
 08532;Obecní úřad Troubsko - Matrika;Troubsko;Jihomoravský;49.16951;16.51078;;;;00282723;7j6bawk;SOVM/DIA;2026-11-27
@@ -160,7 +160,7 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 08230;Městský úřad Velké Opatovice - Matrika;Velké Opatovice;Jihomoravský;49.61237;16.67947;mesto@velkeopatovice.cz;2;;00281247;8nzban3;SOVM/DIA;2026-11-27
 08842;Městský úřad Velké Pavlovice - Matrika;Velké Pavlovice;Jihomoravský;48.90469;16.81605;starosta@velke-pavlovice.cz;1;podatelna@velke-pavlovice.cz;00283703;xvqban6;SOVM/DIA;2026-11-27
 09199;Městský úřad Veselí nad Moravou - Matrika;Veselí nad Moravou;Jihomoravský;48.95363;17.37648;mesto@veseli-nad-moravou.cz;1;posta@veseli-nad-moravou.cz;00285455;ismbss3;SOVM/DIA;2026-11-27
-08567;Městský úřad Veverská Bítýška - Matrika;Veverská Bítýška;Jihomoravský;49.27591;16.43686;ouvb@obecveverskabityska.cz;1;"su@obecveverskabityska.cz;uct@obecveverskabityska.cz;matrika@obecveverskabityska.cz;vod.svazek@obecveverskabityska.cz";00282804;gr7bakj;SOVM/DIA;2026-11-27
+08567;Městský úřad Veverská Bítýška - Matrika;Veverská Bítýška;Jihomoravský;49.27591;16.43686;matrika@obecveverskabityska.cz;1;"ouvb@obecveverskabityska.cz;su@obecveverskabityska.cz;uct@obecveverskabityska.cz;vod.svazek@obecveverskabityska.cz";00282804;gr7bakj;SOVM/DIA;2026-11-27
 09660;Úřad městyse Višňové - Matrika;Višňové;Jihomoravský;48.98241;16.15025;info@visnove.cz;1;;00293784;w7mbaju;SOVM/DIA;2026-11-27
 09202;Obecní úřad Vlkoš - Matrika;Vlkoš;Jihomoravský;48.98960;17.16356;kancelar@vlkos.cz;1;ucetni@vlkos.cz;00285471;t2hbaif;SOVM/DIA;2026-11-27
 09210;Obecní úřad Vnorovy - Matrika;Vnorovy;Jihomoravský;48.93096;17.35050;obec@vnorovy.cz;1;podatelna@vnorovy.cz;00285480;i88baim;SOVM/DIA;2026-11-27
@@ -180,7 +180,7 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 08060;Úřad městyse Černá Hora - Matrika;Černá Hora;Jihomoravský;49.41361;16.58140;info@cernahora.eu;1;;00280097;beebp7j;SOVM/DIA;2026-11-27
 08478;Obecní úřad Říčany - Matrika (Jihomoravský kraj);Říčany;Jihomoravský;49.21497;16.39362;obec@ricanyubrna.cz;1;;00282537;s6abvw3;SOVM/DIA;2026-11-27
 09458;Obecní úřad Šaratice - Matrika;Šaratice;Jihomoravský;49.11746;16.80351;starosta@saratice.cz;1;"podatelna@saratice.cz;ousaratice@politavi.cz";00292346;cetbbkq;SOVM/DIA;2026-11-27
-09156;Obecní úřad Šardice - Matrika;Šardice;Jihomoravský;48.96403;17.02812;podatelna@sardice.cz;2;ou.sardice@sardice.cz;00285374;3mibbjw;SOVM/DIA;2026-11-27
+09156;Obecní úřad Šardice - Matrika;Šardice;Jihomoravský;48.96403;17.02812;ou.sardice@sardice.cz;1;podatelna@sardice.cz;00285374;3mibbjw;SOVM/DIA;2026-11-27
 09628;Úřad městyse Šatov - Matrika;Šatov;Jihomoravský;48.79317;16.00992;matrika.satov@quick.cz;1;"podatelna.satov@quick.cz;ousatov@volny.cz;ucetni.satov@quick.cz;pokladna.satov@quick.cz";00293580;fzab7i7;SOVM/DIA;2026-11-27
 08796;Obecní úřad Šitbořice - Matrika;Šitbořice;Jihomoravský;49.01433;16.77975;starosta@sitborice.cz;1;;00283622;evubbis;SOVM/DIA;2026-11-27
 08508;Městský úřad Šlapanice - Matrika;Šlapanice;Jihomoravský;49.16863;16.72731;sekretariat@slapanice.cz;1;"sekretariat.brno@slapanice.cz;posta@slapanice.cz";00282651;2xfbbgj;SOVM/DIA;2026-11-27
@@ -192,11 +192,11 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 08591;Městský úřad Židlochovice - Matrika;Židlochovice;Jihomoravský;49.03952;16.61881;posta@zidlochovice.cz;1;;00282979;hxdby2c;SOVM/DIA;2026-11-27
 08257;Obecní úřad Žďárná - Matrika;Žďárná;Jihomoravský;49.46864;16.75851;starosta@zdarna.eu;1;;00281352;hu2bacy;SOVM/DIA;2026-11-27
 03026;Městský úřad Bavorov - Matrika;Bavorov;Jihočeský;49.12184;14.07893;starosta@bavorov.cz;1;"bavorov@seznam.cz;jarosova@bavorov.cz";00250945;3skbfjd;SOVM/DIA;2026-11-27
-03158;Městský úřad Bechyně - Matrika;Bechyně;Jihočeský;49.29523;14.46810;posta@mestobechyne.cz;1;"tajemnik@mestobechyne.cz;starosta@mestobechyne.cz";00252069;sshbg5j;SOVM/DIA;2026-11-27
+03158;Městský úřad Bechyně - Matrika;Bechyně;Jihočeský;49.29523;14.46810;posta@mestobechyne.cz;1;"starosta@mestobechyne.cz;tajemnik@mestobechyne.cz";00252069;sshbg5j;SOVM/DIA;2026-11-27
 02380;Obecní úřad Benešov nad Černou - Matrika;Benešov nad Černou;Jihočeský;48.72940;14.62737;starosta@benesovnc.cz;1;;00245780;9erbfiv;SOVM/DIA;2026-11-27
 02763;Úřad městyse Bernartice - Matrika;Bernartice;Jihočeský;49.36889;14.38101;obec@bernartice.cz;1;;00249530;pt7bfi6;SOVM/DIA;2026-11-27
 02399;Úřad městyse Besednice - Matrika;Besednice;Jihočeský;48.78999;14.55689;starosta@besednice.cz;1;;00245798;e2wbfia;SOVM/DIA;2026-11-27
-03042;Městský úřad Blatná - Matrika;Blatná;Jihočeský;49.42489;13.88176;mistostarosta@mesto-blatna.cz;1;"starosta@mesto-blatna.cz;tajemnik@mesto-blatna.cz;mesto@mesto-blatna.cz";00250996;ih3bzwr;SOVM/DIA;2026-11-27
+03042;Městský úřad Blatná - Matrika;Blatná;Jihočeský;49.42489;13.88176;starosta@mesto-blatna.cz;1;"mesto@mesto-blatna.cz;mistostarosta@mesto-blatna.cz;tajemnik@mesto-blatna.cz";00250996;ih3bzwr;SOVM/DIA;2026-11-27
 03166;Úřad městyse Borotín - Matrika;Borotín;Jihočeský;49.50503;14.61297;starosta@borotin.cz;1;;00252107;a7pbfej;SOVM/DIA;2026-11-27
 02208;Městský úřad Borovany - Matrika;Borovany;Jihočeský;48.89860;14.64227;sekretariat@borovany-cb.cz;1;obec.borovany@tiscali.cz;00244686;yenbg43;SOVM/DIA;2026-11-27
 02216;Obecní úřad Boršov nad Vltavou - Matrika;Boršov nad Vltavou;Jihočeský;48.92371;14.43461;obec@borsovnvlt.cz;1;;00244694;rk5bfdx;SOVM/DIA;2026-11-27
@@ -219,16 +219,16 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 02429;Úřad městyse Frymburk - Matrika;Frymburk;Jihočeský;48.66094;14.16564;info@frymburk.info;1;;00245861;wnkbeg2;SOVM/DIA;2026-11-27
 02259;Městský úřad Hluboká nad Vltavou - Matrika;Hluboká nad Vltavou;Jihočeský;49.05225;14.43427;jirsa@hluboka.cz;1;;00244899;cdxbedz;SOVM/DIA;2026-11-27
 02437;Obecní úřad Horní Dvořiště - Matrika;Horní Dvořiště;Jihočeský;48.60378;14.40573;starosta@hornidvoriste.cz;1;"ou@hornidvoriste.cz;podatelna@hornidvoriste.cz";00245887;d6vbd8r;SOVM/DIA;2026-11-27
-02445;Městský úřad Horní Planá - Matrika;Horní Planá;Jihočeský;48.76736;14.03257;podatelna@horniplana.cz;2;mu@horniplana.cz;00245895;re7bd6q;SOVM/DIA;2026-11-27
+02445;Městský úřad Horní Planá - Matrika;Horní Planá;Jihočeský;48.76736;14.03257;mu@horniplana.cz;1;podatelna@horniplana.cz;00245895;re7bd6q;SOVM/DIA;2026-11-27
 02267;Obecní úřad Horní Stropnice - Matrika;Horní Stropnice;Jihočeský;48.76124;14.73502;j.vondrackova@horni-stropnice.cz;1;;00244929;7umbd5z;SOVM/DIA;2026-11-27
 02453;Úřad městyse Hořice na Šumavě - Matrika;Hořice na Šumavě;Jihočeský;48.76591;14.17843;info@horicenasumave.cz;1;;00245909;vaebead;SOVM/DIA;2026-11-27
 02909;Městský úřad Husinec - Matrika;Husinec;Jihočeský;49.05496;13.98697;mesto@husinec.cz;1;;00250449;vn6bdxj;SOVM/DIA;2026-11-27
 02585;Městský úřad Jindřichův Hradec - Matrika;Jindřichův Hradec;Jihočeský;49.14404;15.00301;podatelna@jh.cz;2;meu@jh.cz;00246875;dc7b3kp;SOVM/DIA;2026-11-27
 03212;Městský úřad Jistebnice - Matrika;Jistebnice;Jihočeský;49.48553;14.52760;obec@jistebnice.cz;1;;00252425;dvibdsi;SOVM/DIA;2026-11-27
 02275;Obecní úřad Kamenný Újezd - Matrika;Kamenný Újezd;Jihočeský;48.89753;14.44638;matrika@kamenny-ujezd.cz;1;"obec.kamenny.ujezd@c-box.cz;ou@kamenny-ujezd.cz;stavby@kamenny-ujezd.cz;fondrich@iol.cz";00245062;aqebdr7;SOVM/DIA;2026-11-27
-02488;Městský úřad Kaplice - Matrika;Kaplice;Jihočeský;48.73881;14.49449;tajemnik@mestokaplice.cz;1;"kancelar@mestokaplice.cz;starosta@mestokaplice.cz;podatelna@mestokaplice.cz";00245941;b3ib5e9;SOVM/DIA;2026-11-27
+02488;Městský úřad Kaplice - Matrika;Kaplice;Jihočeský;48.73881;14.49449;kancelar@mestokaplice.cz;1;"starosta@mestokaplice.cz;podatelna@mestokaplice.cz;tajemnik@mestokaplice.cz";00245941;b3ib5e9;SOVM/DIA;2026-11-27
 02640;Městský úřad Kardašova Řečice - Matrika;Kardašova Řečice;Jihočeský;49.18478;14.85315;posta@kardasova-recice.cz;1;;00246905;trrb6ca;SOVM/DIA;2026-11-27
-03069;Úřad městyse Katovice - Matrika;Katovice;Jihočeský;49.27348;13.83035;podatelna@katovice.cz;1;"matrika@katovice.cz;mistostarosta@katovice.cz;starosta@katovice.cz;ekonom@katovice.cz";00251305;rd5b5m7;SOVM/DIA;2026-11-27
+03069;Úřad městyse Katovice - Matrika;Katovice;Jihočeský;49.27348;13.83035;podatelna@katovice.cz;1;"matrika@katovice.cz;starosta@katovice.cz;ekonom@katovice.cz;mistostarosta@katovice.cz";00251305;rd5b5m7;SOVM/DIA;2026-11-27
 02798;Obecní úřad Kovářov - Matrika;Kovářov;Jihočeský;49.51760;14.27809;oukovarov@volny.cz;1;;00249777;xuubdff;SOVM/DIA;2026-11-27
 02658;Obecní úřad Kunžak - Matrika;Kunžak;Jihočeský;49.12119;15.19028;obec@kunzak.cz;1;;00246964;zmsbda8;SOVM/DIA;2026-11-27
 02470;Obecní úřad Kájov - Matrika;Kájov;Jihočeský;48.81082;14.25859;ou-kajov@ou-kajov.cz;1;;00245933;hwhb3tm;SOVM/DIA;2026-11-27
@@ -245,10 +245,10 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 02801;Městský úřad Milevsko - Matrika;Milevsko;Jihočeský;49.45089;14.36000;sekret@milevsko-mesto.cz;1;epodatelna@milevsko-mesto.cz;00249831;8kabvcx;SOVM/DIA;2026-11-27
 02810;Městský úřad Mirotice - Matrika;Mirotice;Jihočeský;49.42908;14.03697;podatelna@mirotice.cz;1;mu.mirotice@tiscali.cz;00249840;iynbhn8;SOVM/DIA;2026-11-27
 02828;Městský úřad Mirovice - Matrika;Mirovice;Jihočeský;49.51555;14.03582;podatelna@mirovice-mesto.cz;2;;00249858;8e5b3pk;SOVM/DIA;2026-11-27
-03239;Městský úřad Mladá Vožice - Matrika;Mladá Vožice;Jihočeský;49.53313;14.80857;starosta@mu-vozice.cz;1;"mistostarosta@mu-vozice.cz;podatelna@mu-vozice.cz;mesto@mu-vozice.cz";00252557;kpxbcqh;SOVM/DIA;2026-11-27
+03239;Městský úřad Mladá Vožice - Matrika;Mladá Vožice;Jihočeský;49.53313;14.80857;starosta@mu-vozice.cz;1;"podatelna@mu-vozice.cz;mesto@mu-vozice.cz;mistostarosta@mu-vozice.cz";00252557;kpxbcqh;SOVM/DIA;2026-11-27
 03247;Obecní úřad Nadějkov - Matrika;Nadějkov;Jihočeský;49.50271;14.47923;starosta@nadejkov.cz;1;urad@nadejkov.cz;00249891;jzubcm6;SOVM/DIA;2026-11-27
 02925;Městský úřad Netolice - Matrika;Netolice;Jihočeský;49.04930;14.19700;mu.tajemnik@netolice.cz;2;;00250601;wj3bcgt;SOVM/DIA;2026-11-27
-02674;Městský úřad Nová Bystřice - Matrika;Nová Bystřice;Jihočeský;49.01926;15.10316;starosta@novabystrice.cz;1;"mistostarosta@novabystrice.cz;podatelna@novabystrice.cz;tajemnik@novabystrice.cz";00247138;aevbzz7;SOVM/DIA;2026-11-27
+02674;Městský úřad Nová Bystřice - Matrika;Nová Bystřice;Jihočeský;49.01926;15.10316;starosta@novabystrice.cz;1;"podatelna@novabystrice.cz;tajemnik@novabystrice.cz;mistostarosta@novabystrice.cz";00247138;aevbzz7;SOVM/DIA;2026-11-27
 02682;Městský úřad Nová Včelnice - Matrika;Nová Včelnice;Jihočeský;49.23935;15.07260;info@vcelnice.cz;1;"starosta@vcelnice.cz;podatelna@vcelnice.cz;tajemnik@vcelnice.cz";00247146;hkdbttn;SOVM/DIA;2026-11-27
 02305;Městský úřad Nové Hrady - Matrika;Nové Hrady;Jihočeský;48.78963;14.77839;radnice@novehrady.cz;1;"e-podatelna@novehrady.cz;posta@novehrady.ipodatelna.cz";00245267;fgibce5;SOVM/DIA;2026-11-27
 03255;Obecní úřad Opařany - Matrika;Opařany;Jihočeský;49.39678;14.48137;starosta@ou.oparany.cz;1;"matrika@ou.oparany.cz;obec@oparany.cz;uctarna@ou.oparany.cz;technik@ou.oparany.cz";00252638;fhzb5vu;SOVM/DIA;2026-11-27
@@ -269,7 +269,7 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 02933;Obecní úřad Stachy - Matrika;Stachy;Jihočeský;49.10179;13.66659;stachy@ipnet.cz;1;;00250678;gnsbbdj;SOVM/DIA;2026-11-27
 03018;Městský úřad Strakonice - Matrika;Strakonice;Jihočeský;49.26141;13.90237;posta@mu-st.cz;1;epodatelna@mu-st.cz;00251810;4gpbfnq;SOVM/DIA;2026-11-27
 02712;Městský úřad Strmilov - Matrika;Strmilov;Jihočeský;49.15846;15.19934;podatelna@strmilovsko.cz;1;;00247511;rywbt6e;SOVM/DIA;2026-11-27
-02941;Úřad městyse Strunkovice nad Blanicí - Matrika;Strunkovice nad Blanicí;Jihočeský;49.08402;14.05522;matrika@strunkovicenadblanici.cz;1;"mstarosta@strunkovicenadblanici.cz;starosta@strunkovicenadblanici.cz;podatelna@strunkovicenadblanici.cz;ucetni@strunkovicenadblanici.cz";00250708;st3bx98;SOVM/DIA;2026-11-27
+02941;Úřad městyse Strunkovice nad Blanicí - Matrika;Strunkovice nad Blanicí;Jihočeský;49.08402;14.05522;matrika@strunkovicenadblanici.cz;1;"starosta@strunkovicenadblanici.cz;podatelna@strunkovicenadblanici.cz;ucetni@strunkovicenadblanici.cz;mstarosta@strunkovicenadblanici.cz";00250708;st3bx98;SOVM/DIA;2026-11-27
 02704;Městský úřad Stráž nad Nežárkou - Matrika;Stráž nad Nežárkou;Jihočeský;49.06971;14.90551;obecstraz@seznam.cz;1;;00247502;q6ibxme;SOVM/DIA;2026-11-27
 02720;Obecní úřad Studená - Matrika;Studená;Jihočeský;49.18516;15.28688;obec@ou-stu.cz;1;e-podatelna@ou-stu.cz;00247545;ni8b29p;SOVM/DIA;2026-11-27
 03301;Úřad městyse Stádlec - Matrika;Stádlec;Jihočeský;49.37960;14.49507;starosta@stadlec.eu;1;obec.stadlec@seznam.cz;00252930;p43jdxf;SOVM/DIA;2026-11-27
@@ -286,7 +286,7 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 03328;Městský úřad Veselí nad Lužnicí - Matrika;Veselí nad Lužnicí;Jihočeský;49.18430;14.69734;mesto@veseli.cz;1;;00253081;3wpbyp9;SOVM/DIA;2026-11-27
 02976;Městský úřad Vimperk - Matrika;Vimperk;Jihočeský;49.05857;13.78286;urad@mesto.vimperk.cz;1;epodatelna@mesto.vimperk.cz;00250805;9ydb7vm;SOVM/DIA;2026-11-27
 02984;Městský úřad Vlachovo Březí - Matrika;Vlachovo Březí;Jihočeský;49.08135;13.95842;;;;00250821;xd9bvpz;SOVM/DIA;2026-11-27
-03123;Městský úřad Vodňany - Matrika;Vodňany;Jihočeský;49.14789;14.17513;eposta@muvodnany.cz;2;"blascak@muvodnany.cz;muvod@muvodnany.cz";00251984;fb9bfyg;SOVM/DIA;2026-11-27
+03123;Městský úřad Vodňany - Matrika;Vodňany;Jihočeský;49.14789;14.17513;blascak@muvodnany.cz;1;"eposta@muvodnany.cz;muvod@muvodnany.cz";00251984;fb9bfyg;SOVM/DIA;2026-11-27
 02992;Městský úřad Volary - Matrika;Volary;Jihočeský;48.90881;13.88657;mesto.volary@wo.cz;1;;00250830;kxrj2k8;SOVM/DIA;2026-11-27
 03131;Městský úřad Volyně - Matrika;Volyně;Jihočeský;49.16578;13.88624;info@mu.volyne.cz;2;;00252000;2fybwhe;SOVM/DIA;2026-11-27
 02550;Městský úřad Vyšší Brod - Matrika;Vyšší Brod;Jihočeský;48.61598;14.31183;podatelna@mestovyssibrod.cz;2;;00246191;7tnbs9d;SOVM/DIA;2026-11-27
@@ -304,14 +304,14 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 02895;Obecní úřad Čkyně - Matrika;Čkyně;Jihočeský;49.11503;13.82906;schval@ouckyne.cz;1;"mtelingrova@ouckyne.cz;pohanova@ouckyne.cz";00250384;dddbewf;SOVM/DIA;2026-11-27
 02321;Úřad městyse Ševětín - Matrika;Ševětín;Jihočeský;49.10005;14.57220;obec@sevetin.cz;1;"casta@sevetin.cz;hajska@sevetin.cz";00245500;c2yb5xr;SOVM/DIA;2026-11-27
 03115;Úřad městyse Štěkeň - Matrika;Štěkeň;Jihočeský;49.26714;14.00589;mestys@steken.cz;1;;00251895;acibbbr;SOVM/DIA;2026-11-27
-02950;Obecní úřad Šumavské Hoštice - Matrika;Šumavské Hoštice;Jihočeský;49.03939;13.87226;obec@sumavskehostice.cz;1;ou.sumavskehostice@quick.cz;00250732;vp2ba6a;SOVM/DIA;2026-11-27
+02950;Obecní úřad Šumavské Hoštice - Matrika;Šumavské Hoštice;Jihočeský;49.03939;13.87226;ou.sumavskehostice@quick.cz;1;obec@sumavskehostice.cz;00250732;vp2ba6a;SOVM/DIA;2026-11-27
 04219;Městský úřad Aš - Matrika;Aš;Karlovarský;50.22387;12.19499;mestoas@muas.cz;1;podatelna@muas.cz;00253901;5nubqy8;SOVM/DIA;2026-11-27
 04359;Městský úřad Bečov nad Teplou - Matrika;Bečov nad Teplou;Karlovarský;50.08345;12.83831;info@becov.cz;1;;00254410;szbbfjh;SOVM/DIA;2026-11-27
 04367;Městský úřad Bochov - Matrika;Bochov;Karlovarský;50.14872;13.05227;podatelna@mesto-bochov.cz;2;;00254444;hhxbfgd;SOVM/DIA;2026-11-27
 04537;Obecní úřad Bukovany - Matrika;Bukovany;Karlovarský;50.16632;12.57265;;;;00259276;j6qb5bt;SOVM/DIA;2026-11-27
 04529;Městský úřad Březová - Matrika (Karlovarský kraj);Březová;Karlovarský;50.14557;12.64996;;;;;;;
 04200;Městský úřad Cheb - Matrika;Cheb;Karlovarský;50.07963;12.37392;podatelna@cheb.cz;2;;00253979;a8gbnyc;SOVM/DIA;2026-11-27
-04561;Městský úřad Chodov - Matrika;Chodov;Karlovarský;50.24018;12.74551;chodov@obecni-urad.net;1;podatelna@mestochodov.cz;00259349;8rfbnzc;SOVM/DIA;2026-11-27
+04561;Městský úřad Chodov - Matrika;Chodov;Karlovarský;50.24018;12.74551;podatelna@mestochodov.cz;2;chodov@obecni-urad.net;00259349;8rfbnzc;SOVM/DIA;2026-11-27
 04227;Obecní úřad Dolní Žandov - Matrika;Dolní Žandov;Karlovarský;50.01794;12.55101;oudolnizandov@seznam.cz;2;;00253910;sembep7;SOVM/DIA;2026-11-27
 04235;Městský úřad Františkovy Lázně - Matrika;Františkovy Lázně;Karlovarský;50.12033;12.35174;urad@mufrlazne.cz;1;podatelna@mufrlazne.cz;00253936;4sqbzzr;SOVM/DIA;2026-11-27
 04545;Městský úřad Habartov - Matrika;Habartov;Karlovarský;50.18297;12.55054;muhabartov@mestohabartov.cz;1;;00259314;s63b5gx;SOVM/DIA;2026-11-27
@@ -327,19 +327,19 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 04391;Obecní úřad Kyselka - Matrika;Kyselka;Karlovarský;50.26834;12.99002;obeckyselka@quick.cz;1;;00254762;69xbc9p;SOVM/DIA;2026-11-27
 04278;Obecní úřad Libá - Matrika;Libá;Karlovarský;50.12816;12.23082;obecliba@seznam.cz;1;podatelna.liba@seznam.cz;00254037;japb3za;SOVM/DIA;2026-11-27
 04596;Městský úřad Loket - Matrika;Loket;Karlovarský;50.18600;12.75405;epodatelna@loket.cz;1;;00259489;u2mbuyt;SOVM/DIA;2026-11-27
-04600;Obecní úřad Lomnice - Matrika (Karlovarský kraj);Lomnice;Karlovarský;50.21174;12.63267;kubikova@obeclomnice.cz;1;"krejcarkova@obeclomnice.cz;lowova@obeclomnice.cz;putova@obeclomnice.cz;mistostarosta@obeclomnice.cz;starosta@obeclomnice.cz";00259497;uedbcyu;SOVM/DIA;2026-11-27
-04286;Městský úřad Luby - Matrika;Luby;Karlovarský;50.25248;12.40595;mestoluby@mestoluby.cz;1;"starosta@mestoluby.cz;tajemnik@mestoluby.cz;info@mestoluby.cz";00254053;wvebcww;SOVM/DIA;2026-11-27
+04600;Obecní úřad Lomnice - Matrika (Karlovarský kraj);Lomnice;Karlovarský;50.21174;12.63267;starosta@obeclomnice.cz;1;"obec@obeclomnice.cz;kubikova@obeclomnice.cz;krejcarkova@obeclomnice.cz;lowova@obeclomnice.cz;putova@obeclomnice.cz";00259497;uedbcyu;SOVM/DIA;2026-11-27
+04286;Městský úřad Luby - Matrika;Luby;Karlovarský;50.25248;12.40595;mestoluby@mestoluby.cz;1;"starosta@mestoluby.cz;info@mestoluby.cz;tajemnik@mestoluby.cz";00254053;wvebcww;SOVM/DIA;2026-11-27
 04260;Městský úřad Lázně Kynžvart - Matrika;Lázně Kynžvart;Karlovarský;50.01058;12.62474;epodatelna@laznekynzvart.cz;1;;00254029;9qybc7s;SOVM/DIA;2026-11-27
 04294;Městský úřad Mariánské Lázně - Matrika;Mariánské Lázně;Karlovarský;49.96459;12.70118;epodatelna@marianskelazne.cz;2;muml@marianskelazne.cz;00254061;bprbqms;SOVM/DIA;2026-11-27
 04308;Obecní úřad Nebanice - Matrika;Nebanice;Karlovarský;50.11524;12.47197;info@nebanice.cz;1;;00254118;guqbckr;SOVM/DIA;2026-11-27
 04405;Městský úřad Nejdek - Matrika;Nejdek;Karlovarský;50.32242;12.72936;meu@nejdek.cz;1;;00254801;b56bu3f;SOVM/DIA;2026-11-27
 04413;Městský úřad Nová Role - Matrika;Nová Role;Karlovarský;50.27092;12.78422;mesto@novarole.cz;1;;00254819;y24bcev;SOVM/DIA;2026-11-27
 04618;Městský úřad Nové Sedlo - Matrika;Nové Sedlo;Karlovarský;50.20647;12.73800;urad@mestonovesedlo.cz;1;;00259527;6n9bcdd;SOVM/DIA;2026-11-27
-04626;Městský úřad Oloví - Matrika;Oloví;Karlovarský;50.25113;12.55877;mesto@olovi.cz;1;"evidenceobyvatel@olovi.cz;matrika@olovi.cz;starosta@olovi.cz;mistostarosta@olovi.cz;olovi@olovi.cz";00259535;5y6bca2;SOVM/DIA;2026-11-27
+04626;Městský úřad Oloví - Matrika;Oloví;Karlovarský;50.25113;12.55877;mesto@olovi.cz;1;"evidenceobyvatel@olovi.cz;matrika@olovi.cz;starosta@olovi.cz;olovi@olovi.cz;uctarna@olovi.cz";00259535;5y6bca2;SOVM/DIA;2026-11-27
 04421;Městský úřad Ostrov - Matrika;Ostrov;Karlovarský;50.30592;12.93907;podatelna@ostrov.cz;2;;00254843;d5zbgz2;SOVM/DIA;2026-11-27
 04430;Obecní úřad Otročín - Matrika;Otročín;Karlovarský;50.03228;12.89229;info@otrocin.eu;1;;00254860;pvrbwnr;SOVM/DIA;2026-11-27
 04448;Obecní úřad Pernink - Matrika;Pernink;Karlovarský;50.36569;12.78371;starostka@pernink.eu;1;"infopernink@volny.cz;pernink@volny.cz";00254878;i2ebb4m;SOVM/DIA;2026-11-27
-04316;Městský úřad Plesná - Matrika;Plesná;Karlovarský;50.22070;12.34669;tajemnik@mestoplesna.cz;1;starosta@mestoplesna.cz;00254169;jmya97t;SOVM/DIA;2026-11-27
+04316;Městský úřad Plesná - Matrika;Plesná;Karlovarský;50.22070;12.34669;starosta@mestoplesna.cz;2;tajemnik@mestoplesna.cz;00254169;jmya97t;SOVM/DIA;2026-11-27
 04634;Městský úřad Rotava - Matrika;Rotava;Karlovarský;50.29627;12.57341;podatelna@rotava.cz;1;rotava@rotava.cz;00259551;w4tb7kv;SOVM/DIA;2026-11-27
 04456;Obecní úřad Sadov - Matrika;Sadov;Karlovarský;50.26711;12.89708;starosta@sadov.cz;1;;00254959;vzdbbke;SOVM/DIA;2026-11-27
 04324;Městský úřad Skalná - Matrika;Skalná;Karlovarský;50.17030;12.36144;mestsky.urad@skalna.cz;1;;00254231;54jbbhy;SOVM/DIA;2026-11-27
@@ -347,7 +347,7 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 04464;Obecní úřad Stanovice - Matrika;Stanovice;Karlovarský;50.16511;12.87395;ou@obecstanovice.cz;1;;00254975;w38bbcw;SOVM/DIA;2026-11-27
 04472;Městský úřad Teplá - Matrika;Teplá;Karlovarský;49.97997;12.86432;tajemnik@tepla.cz;1;;00255050;gpdb7mi;SOVM/DIA;2026-11-27
 04480;Městský úřad Toužim - Matrika;Toužim;Karlovarský;50.06049;12.98506;touzim@touzim.cz;1;;00255076;ji6b68s;SOVM/DIA;2026-11-27
-04332;Obecní úřad Velká Hleďsebe - Matrika;Velká Hleďsebe;Karlovarský;49.96151;12.66763;pozemky@obecvh.cz;1;"matrika@obecvh.cz;podatelna@obecvh.cz";00572756;r9jbapp;SOVM/DIA;2026-11-27
+04332;Obecní úřad Velká Hleďsebe - Matrika;Velká Hleďsebe;Karlovarský;49.96151;12.66763;matrika@obecvh.cz;1;"podatelna@obecvh.cz;pozemky@obecvh.cz";00572756;r9jbapp;SOVM/DIA;2026-11-27
 04499;Městský úřad Žlutice - Matrika;Žlutice;Karlovarský;50.09192;13.16297;podatelna.meu@zlutice.cz;2;meu@zlutice.cz;00255181;q9xbwud;SOVM/DIA;2026-11-27
 06270;Městský úřad Borohrádek - Matrika;Borohrádek;Královéhradecký;50.09777;16.09326;podatelna@mestoborohradek.cz;1;;00274739;jyybfef;SOVM/DIA;2026-11-27
 06149;Městský úřad Broumov - Matrika;Broumov;Královéhradecký;50.58566;16.33181;prijmeni@broumov-mesto.cz;2;;00272523;mdubzhy;SOVM/DIA;2026-11-27
@@ -359,7 +359,7 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 06424;Městský úřad Dvůr Králové nad Labem - Matrika;Dvůr Králové nad Labem;Královéhradecký;50.43172;15.81402;epodatelna@mudk.cz;2;;00277819;mu5b26c;SOVM/DIA;2026-11-27
 06432;Obecní úřad Horní Maršov - Matrika;Horní Maršov;Královéhradecký;50.66100;15.81894;obec@hornimarsov.cz;1;epodatelna@hornimarsov.cz;00277878;js2bd78;SOVM/DIA;2026-11-27
 06440;Městský úřad Hostinné - Matrika;Hostinné;Královéhradecký;50.54066;15.72334;epodatelna@muhostinne.cz;1;urad@muhostinne.cz;00277908;dgsbd5f;SOVM/DIA;2026-11-27
-06033;Městský úřad Hořice - Matrika;Hořice;Královéhradecký;50.36609;15.63183;mesturad@horice.org;1;e-podatelna@horice.org;00271560;247bzdz;SOVM/DIA;2026-11-27
+06033;Městský úřad Hořice - Matrika;Hořice;Královéhradecký;50.36609;15.63183;e-podatelna@horice.org;2;mesturad@horice.org;00271560;247bzdz;SOVM/DIA;2026-11-27
 06173;Obecní úřad Hořičky - Matrika;Hořičky;Královéhradecký;50.44476;15.99353;horicky@horicky.cz;2;;00272671;53pbea9;SOVM/DIA;2026-11-27
 05924;Magistrát města Hradec Králové - Matrika;Hradec Králové;Královéhradecký;50.20923;15.83277;posta@mmhk.cz;2;;00268810;bebb2in;SOVM/DIA;2026-11-27
 06181;Městský úřad Hronov - Matrika;Hronov;Královéhradecký;50.47968;16.18230;mestohronov@mestohronov.cz;1;podatelna@mestohronov.cz;00272680;cspbd24;SOVM/DIA;2026-11-27
@@ -370,11 +370,11 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 06319;Městský úřad Kostelec nad Orlicí - Matrika;Kostelec nad Orlicí;Královéhradecký;50.12267;16.21319;podatelna@muko.cz;1;;00274968;aj5bhbi;SOVM/DIA;2026-11-27
 06068;Městský úřad Libáň - Matrika;Libáň;Královéhradecký;50.37542;15.21684;mestoliban@mestoliban.cz;1;podatelna@mestoliban.cz;00271748;guibzaw;SOVM/DIA;2026-11-27
 06050;Městský úřad Lázně Bělohrad - Matrika;Lázně Bělohrad;Královéhradecký;50.42874;15.58269;podatelna@lazne-belohrad.cz;1;;00271730;ih9bc8k;SOVM/DIA;2026-11-27
-06203;Úřad městyse Machov - Matrika;Machov;Královéhradecký;50.49927;16.27690;machov-obec@machov-obec.cz;2;ou.machov@worldonline.cz;00272809;95qbcuv;SOVM/DIA;2026-11-27
+06203;Úřad městyse Machov - Matrika;Machov;Královéhradecký;50.49927;16.27690;ou.machov@worldonline.cz;1;machov-obec@machov-obec.cz;00272809;95qbcuv;SOVM/DIA;2026-11-27
 06467;Obecní úřad Malé Svatoňovice - Matrika;Malé Svatoňovice;Královéhradecký;50.53395;16.04978;obec@malesvatonovice.cz;1;"matrika@malesvatonovice.cz;ucetni@malesvatonovice.cz";00278114;zcfbcuz;SOVM/DIA;2026-11-27
 06211;Městský úřad Meziměstí - Matrika;Meziměstí;Královéhradecký;50.62461;16.24207;hecko@mezimesti.cz;1;"jenkova@mezimesti.cz;muckova@mezimesti.cz";00272841;2pjb4h5;SOVM/DIA;2026-11-27
 06076;Městský úřad Miletín - Matrika;Miletín;Královéhradecký;50.40382;15.68226;obec.miletin@iol.cz;1;;00271811;yncbcrq;SOVM/DIA;2026-11-27
-06475;Úřad městyse Mladé Buky - Matrika;Mladé Buky;Královéhradecký;50.60643;15.83348;zeman@mestysmladebuky.cz;1;podatelna@mestysmladebuky.cz;00278149;sa2b36e;SOVM/DIA;2026-11-27
+06475;Úřad městyse Mladé Buky - Matrika;Mladé Buky;Královéhradecký;50.60643;15.83348;podatelna@mestysmladebuky.cz;1;zeman@mestysmladebuky.cz;00278149;sa2b36e;SOVM/DIA;2026-11-27
 06483;Obecní úřad Mostek - Matrika;Mostek;Královéhradecký;50.48623;15.69622;starosta@mostek.cz;1;info@mostek.cz;00278157;8ribcna;SOVM/DIA;2026-11-27
 05959;Městský úřad Nechanice - Matrika;Nechanice;Královéhradecký;50.23737;15.63276;starosta@nechanice.cz;1;tajemnik@nechanice.cz;00269191;73fbcjx;SOVM/DIA;2026-11-27
 06084;Městský úřad Nová Paka - Matrika;Nová Paka;Královéhradecký;50.49449;15.51503;e-podatelna@munovapaka.cz;1;posta@munovapaka.cz;00271888;y73bsrg;SOVM/DIA;2026-11-27
@@ -424,7 +424,7 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 05827;Obecní úřad Hrubá Skála - Matrika;Hrubá Skála;Liberecký;50.54611;15.20923;hrubaskala@craj.cz;1;;00275751;ieubdzk;SOVM/DIA;2026-11-27
 05711;Městský úřad Hrádek nad Nisou - Matrika;Hrádek nad Nisou;Liberecký;50.85279;14.84455;mestohradek@muhradek.cz;1;;00262854;4tkbw8g;SOVM/DIA;2026-11-27
 05835;Městský úřad Jablonec nad Jizerou - Matrika;Jablonec nad Jizerou;Liberecký;50.70347;15.42959;mesto@jablonecnjiz.cz;1;podatelna@jablonecnjiz.cz;00275778;qh7bryj;SOVM/DIA;2026-11-27
-05568;Magistrát města Jablonec nad Nisou - Matrika;Jablonec nad Nisou;Liberecký;50.72431;15.17108;mujablonec@mestojablonec.cz;1;epodatelna@mestojablonec.cz;00262340;wufbr2a;SOVM/DIA;2026-11-27
+05568;Magistrát města Jablonec nad Nisou - Matrika;Jablonec nad Nisou;Liberecký;50.72431;15.17108;epodatelna@mestojablonec.cz;2;mujablonec@mestojablonec.cz;00262340;wufbr2a;SOVM/DIA;2026-11-27
 05495;Městský úřad Jablonné v Podještědí - Matrika;Jablonné v Podještědí;Liberecký;50.76528;14.76052;info@jvpmesto.cz;1;;00260576;5gtbz44;SOVM/DIA;2026-11-27
 05584;Obecní úřad Jenišovice - Matrika;Jenišovice;Liberecký;50.62770;15.13653;bradac@jenisovice.cz;1;svobodova@jenisovice.cz;00262366;6mhbhxv;SOVM/DIA;2026-11-27
 05843;Městský úřad Jilemnice - Matrika;Jilemnice;Liberecký;50.60890;15.50653;posta@mesto.jilemnice.cz;1;;00275808;g2nbdtx;SOVM/DIA;2026-11-27
@@ -513,7 +513,7 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 11916;Obecní úřad Lučina - Matrika;Lučina;Moravskoslezský;49.72082;18.44776;obec@lucina.cz;1;epodatelna.lucina@seznam.cz;00296899;h7ub39u;SOVM/DIA;2026-11-27
 12580;Obecní úřad Melč - Matrika;Melč;Moravskoslezský;49.84993;17.75780;urad@obecmelc.cz;1;;00300420;6ykbctg;SOVM/DIA;2026-11-27
 11924;Obecní úřad Mosty u Jablunkova - Matrika;Mosty u Jablunkova;Moravskoslezský;49.52737;18.75417;obec@mostyujablunkova.cz;1;;00296953;xx9bcnf;SOVM/DIA;2026-11-27
-12327;Obecní úřad Mořkov - Matrika;Mořkov;Moravskoslezský;49.53684;18.05968;morkov@obec-morkov.cz;1;podatelna@obec-morkov.cz;00298191;vn3bqan;SOVM/DIA;2026-11-27
+12327;Obecní úřad Mořkov - Matrika;Mořkov;Moravskoslezský;49.53684;18.05968;podatelna@obec-morkov.cz;2;morkov@obec-morkov.cz;00298191;vn3bqan;SOVM/DIA;2026-11-27
 11690;Městský úřad Město Albrechtice - Matrika;Město Albrechtice;Moravskoslezský;50.16294;17.57481;podatelna@mesto-albrechtice.cz;1;"sekretariat@obecalbrechtice.cz;tajemnik@obecalbrechtice.cz";00296228;qz9b27r;SOVM/DIA;2026-11-27
 12211;Městský úřad Nový Jičín - Matrika;Nový Jičín;Moravskoslezský;49.59438;18.01028;e-podatelna@novyjicin.cz;1;;00298212;ywmb4nc;SOVM/DIA;2026-11-27
 11932;Obecní úřad Nýdek - Matrika;Nýdek;Moravskoslezský;49.65609;18.75687;obec@nydek.cz;1;starosta@nydek.cz;00492868;pm3b2z5;SOVM/DIA;2026-11-27
@@ -550,19 +550,19 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 11991;Obecní úřad Stará Ves nad Ondřejnicí - Matrika;Stará Ves nad Ondřejnicí;Moravskoslezský;49.72775;18.18850;oustaraves@stara-ves.cz;1;;00297232;asxbfrf;SOVM/DIA;2026-11-27
 12009;Obecní úřad Staré Hamry - Matrika;Staré Hamry;Moravskoslezský;49.47261;18.44581;obec.starehamry@seznam.cz;1;epodatelna.starehamry@seznam.cz;00297241;naxbbc2;SOVM/DIA;2026-11-27
 12378;Obecní úřad Starý Jičín - Matrika;Starý Jičín;Moravskoslezský;49.57686;17.96169;podatelna@stary-jicin.cz;1;;00298425;48cbwvk;SOVM/DIA;2026-11-27
-12017;Obecní úřad Staříč - Matrika;Staříč;Moravskoslezský;49.68594;18.27281;staric@obec-staric.cz;1;epodatelna.staric@seznam.cz;00576956;4qdbbbc;SOVM/DIA;2026-11-27
+12017;Obecní úřad Staříč - Matrika;Staříč;Moravskoslezský;49.68594;18.27281;epodatelna.staric@seznam.cz;2;staric@obec-staric.cz;00576956;4qdbbbc;SOVM/DIA;2026-11-27
 12190;Obecní úřad Stonava - Matrika;Stonava;Moravskoslezský;49.81691;18.52518;obec@stonava.cz;1;;00297658;wd5ba9k;SOVM/DIA;2026-11-27
 12386;Městský úřad Studénka - Matrika;Studénka;Moravskoslezský;49.72342;18.07853;podatelna@mesto-studenka.cz;1;starosta@mesto-studenka.cz;00298441;vz3bvhc;SOVM/DIA;2026-11-27
 12629;Obecní úřad Stěbořice - Matrika;Stěbořice;Moravskoslezský;49.93708;17.80547;obec.steborice@seznam.cz;1;"starostasteborice@seznam.cz;epodatelna.steborice@seznam.cz";00300691;4d3bpzj;SOVM/DIA;2026-11-27
 12394;Úřad městyse Suchdol nad Odrou - Matrika;Suchdol nad Odrou;Moravskoslezský;49.65707;17.92703;mestys@suchdol-nad-odrou.cz;1;;00298450;fakba7w;SOVM/DIA;2026-11-27
-12637;Obecní úřad Sudice - Matrika;Sudice;Moravskoslezský;50.03154;18.06840;starosta@obecsudice.cz;1;"vavrova@obecsudice.cz;matrika@obecsudice.cz;epodatelna@obecsudice.cz";00300713;6hbba64;SOVM/DIA;2026-11-27
+12637;Obecní úřad Sudice - Matrika;Sudice;Moravskoslezský;50.03154;18.06840;starosta@obecsudice.cz;1;"matrika@obecsudice.cz;epodatelna@obecsudice.cz;vavrova@obecsudice.cz";00300713;6hbba64;SOVM/DIA;2026-11-27
 11738;Obecní úřad Světlá Hora - Matrika;Světlá Hora;Moravskoslezský;50.04644;17.39944;svetlahora@svetlahora.cz;1;;00296392;8ycba46;SOVM/DIA;2026-11-27
 12416;Obecní úřad Tichá - Matrika;Tichá;Moravskoslezský;49.56999;18.22148;obecni.urad@ticha.cz;1;;00298476;799bazw;SOVM/DIA;2026-11-27
 12203;Obecní úřad Těrlicko - Matrika;Těrlicko;Moravskoslezský;49.75282;18.48901;ou@terlicko.cz;1;;00297666;2m4ba2f;SOVM/DIA;2026-11-27
 12033;Magistrát města Třince - Matrika;Třinec;Moravskoslezský;49.67763;18.67078;sekretariat@trinecko.cz;1;epodatelna@trinecko.cz;00297313;4anbqsj;SOVM/DIA;2026-11-27
-12653;Obecní úřad Velká Polom - Matrika;Velká Polom;Moravskoslezský;49.86359;18.09331;mistostarosta@velkapolom.cz;1;"starosta@velkapolom.cz;sekretariat@velkapolom.cz;matrika@velkapolom.cz;epodatelna@velkapolom.cz;stavsekr@velkapolom.cz";00300829;k9nbsq7;SOVM/DIA;2026-11-27
+12653;Obecní úřad Velká Polom - Matrika;Velká Polom;Moravskoslezský;49.86359;18.09331;starosta@velkapolom.cz;1;"sekretariat@velkapolom.cz;matrika@velkapolom.cz;epodatelna@velkapolom.cz;stavsekr@velkapolom.cz;ucetni@velkapolom.cz";00300829;k9nbsq7;SOVM/DIA;2026-11-27
 12661;Obecní úřad Velké Heraltice - Matrika;Velké Heraltice;Moravskoslezský;49.97493;17.72879;epodatelna.heraltice@seznam.cz;2;ouvelh@iol.cz;00300837;22ubapj;SOVM/DIA;2026-11-27
-12424;Obecní úřad Veřovice - Matrika;Veřovice;Moravskoslezský;49.53916;18.11425;mistostarosta@verovice.cz;1;"obecni.urad@verovice.cz;starosta@verovice.cz;podatelna@verovice.cz;ucetni@verovice.cz";00298531;rjgbakd;SOVM/DIA;2026-11-27
+12424;Obecní úřad Veřovice - Matrika;Veřovice;Moravskoslezský;49.53916;18.11425;obecni.urad@verovice.cz;1;"starosta@verovice.cz;podatelna@verovice.cz;ucetni@verovice.cz;mistostarosta@verovice.cz";00298531;rjgbakd;SOVM/DIA;2026-11-27
 12050;Městský úřad Vratimov - Matrika;Vratimov;Moravskoslezský;49.76995;18.31015;meu@vratimov.cz;1;;00297372;m29bfpe;SOVM/DIA;2026-11-27
 11754;Městský úřad Vrbno pod Pradědem - Matrika;Vrbno pod Pradědem;Moravskoslezský;50.12095;17.38316;podatelna@vrbnopp.cz;2;;00296457;znnbahx;SOVM/DIA;2026-11-27
 12041;Obecní úřad Václavovice - Matrika;Václavovice;Moravskoslezský;49.75531;18.37220;obecni.urad@obecvaclavovice.cz;1;ouvaclavovice@iol.cz;00297330;ge4bfqx;SOVM/DIA;2026-11-27
@@ -570,9 +570,9 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 12432;Obecní úřad Vřesina - Matrika;Vřesina;Moravskoslezský;49.82418;18.12569;info@vresina.cz;1;vresina@vresina-u-hlucina.cz;00298581;mwaazct;SOVM/DIA;2026-11-27
 11762;Obecní úřad Zátor - Matrika;Zátor;Moravskoslezský;50.03413;17.59296;obec@zator.cz;2;;00296473;6kqbad4;SOVM/DIA;2026-11-27
 11746;Obecní úřad Úvalno - Matrika;Úvalno;Moravskoslezský;50.04716;17.74473;podatelna@uvalno.cz;1;;00296422;sxnbasy;SOVM/DIA;2026-11-27
-11800;Obecní úřad Čeladná - Matrika;Čeladná;Moravskoslezský;49.54873;18.33759;mistostarosta@celadna.cz;1;celadna@iol.cz;00296571;2hmb3aw;SOVM/DIA;2026-11-27
+11800;Obecní úřad Čeladná - Matrika;Čeladná;Moravskoslezský;49.54873;18.33759;celadna@iol.cz;1;mistostarosta@celadna.cz;00296571;2hmb3aw;SOVM/DIA;2026-11-27
 12092;Městský úřad Český Těšín - Matrika;Český Těšín;Moravskoslezský;49.74613;18.62613;epodatelna@tesin.cz;2;;00297437;dicbu92;SOVM/DIA;2026-11-27
-12025;Městský úřad Šenov - Matrika;Šenov;Moravskoslezský;49.79315;18.37607;asevcik@mesto-senov.cz;1;"e-posta@mesto-senov.cz;meu.senov@seznam.cz";00297291;zznbfqm;SOVM/DIA;2026-11-27
+12025;Městský úřad Šenov - Matrika;Šenov;Moravskoslezský;49.79315;18.37607;e-posta@mesto-senov.cz;2;"asevcik@mesto-senov.cz;meu.senov@seznam.cz";00297291;zznbfqm;SOVM/DIA;2026-11-27
 12408;Městský úřad Štramberk - Matrika;Štramberk;Moravskoslezský;49.59181;18.11741;podatelna@stramberk.cz;1;;00298468;ctjba9t;SOVM/DIA;2026-11-27
 12645;Obecní úřad Štěpánkovice - Matrika;Štěpánkovice;Moravskoslezský;49.95738;18.03741;obec@stepankovice.cz;1;e-podatelna@stepankovice.cz;00300756;qrybba5;SOVM/DIA;2026-11-27
 10065;Obecní úřad Bedihošť - Matrika;Bedihošť;Olomoucký;49.44826;17.16643;obecbedihost@volny.cz;1;;00288004;ap8b2fe;SOVM/DIA;2026-11-27
@@ -583,7 +583,7 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 09768;Obecní úřad Bouzov - Matrika;Bouzov;Olomoucký;49.70426;16.89288;obec.bouzov@volny.cz;1;;00298719;gtubfd2;SOVM/DIA;2026-11-27
 10499;Obecní úřad Branná - Matrika;Branná;Olomoucký;50.15319;17.01147;obec@branna.eu;1;;00302406;4vfbfbt;SOVM/DIA;2026-11-27
 10502;Obecní úřad Brníčko - Matrika;Brníčko;Olomoucký;49.89488;16.96820;ou-brnicko@c-box.cz;2;;00302422;mrwbe98;SOVM/DIA;2026-11-27
-10081;Obecní úřad Brodek u Konice - Matrika;Brodek u Konice;Olomoucký;49.54869;16.83286;ou.brodek.matrika@seznam.cz;1;ou.brodek@worldonline.cz;00288055;cymbe9b;SOVM/DIA;2026-11-27
+10081;Obecní úřad Brodek u Konice - Matrika;Brodek u Konice;Olomoucký;49.54869;16.83286;ou.brodek@worldonline.cz;1;ou.brodek.matrika@seznam.cz;00288055;cymbe9b;SOVM/DIA;2026-11-27
 10090;Úřad městyse Brodek u Prostějova - Matrika;Brodek u Prostějova;Olomoucký;49.36977;17.08931;mestys@brodek.cz;1;starosta@brodek.cz;00288063;cfhbvhk;SOVM/DIA;2026-11-27
 10308;Úřad městyse Brodek u Přerova - Matrika;Brodek u Přerova;Olomoucký;49.48419;17.33825;obec@brodekuprerova.cz;1;;00301078;qu7bw79;SOVM/DIA;2026-11-27
 10294;Obecní úřad Bělotín - Matrika;Bělotín;Olomoucký;49.59120;17.80654;urad@belotin.cz;1;"belotin@belotin.cz;spov@belotin.cz;ucetni@belotin.cz;ekonom@belotin.cz;kultura@belotin.cz";00301019;unrbsif;SOVM/DIA;2026-11-27
@@ -596,7 +596,7 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 10111;Úřad městyse Drahany - Matrika;Drahany;Olomoucký;49.43326;16.89738;oudrahany@iol.cz;1;;00288209;2htbekr;SOVM/DIA;2026-11-27
 09814;Úřad městyse Dub nad Moravou - Matrika;Dub nad Moravou;Olomoucký;49.48249;17.27723;obec@dubnadmoravou.cz;1;;00298867;4yubeit;SOVM/DIA;2026-11-27
 10510;Obecní úřad Dubicko - Matrika;Dubicko;Olomoucký;49.82806;16.96266;starosta@dubicko.cz;1;"podatelna@dubicko.cz;ucetni@dubicko.cz;tajemnik@dubicko.cz";00302538;xcpbejc;SOVM/DIA;2026-11-27
-10324;Úřad městyse Dřevohostice - Matrika;Dřevohostice;Olomoucký;49.42594;17.59204;ou@drevohostice.cz;1;"starosta@drevohostice.cz;mistostarosta@drevohostice.cz;matrika@drevohostice.cz;podatelna@drevohostice.cz;su@drevohostice.cz";00301213;ipbbg82;SOVM/DIA;2026-11-27
+10324;Úřad městyse Dřevohostice - Matrika;Dřevohostice;Olomoucký;49.42594;17.59204;ou@drevohostice.cz;1;"starosta@drevohostice.cz;matrika@drevohostice.cz;podatelna@drevohostice.cz;mistostarosta@drevohostice.cz;su@drevohostice.cz";00301213;ipbbg82;SOVM/DIA;2026-11-27
 10529;Městský úřad Hanušovice - Matrika;Hanušovice;Olomoucký;50.08049;16.93641;;;;00302546;9wwbeey;SOVM/DIA;2026-11-27
 09822;Obecní úřad Hlubočky - Matrika;Hlubočky;Olomoucký;49.61783;17.39436;sekretariat@hlubocky.cz;2;;00298891;ne2bugw;SOVM/DIA;2026-11-27
 09830;Obecní úřad Horka nad Moravou - Matrika;Horka nad Moravou;Olomoucký;49.64009;17.21070;obec@horka.cz;1;;00298948;bpubeap;SOVM/DIA;2026-11-27
@@ -630,7 +630,7 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 10197;Městský úřad Němčice nad Hanou - Matrika;Němčice nad Hanou;Olomoucký;49.34181;17.20596;dvorakova@nemcicenh.cz;2;;00288497;udbb4fb;SOVM/DIA;2026-11-27
 09741;Magistrát města Olomouce - Matrika;Olomouc;Olomoucký;49.59552;17.25175;infocentrum@olomouc.eu;2;;00299308;kazbzri;SOVM/DIA;2026-11-27
 10391;Obecní úřad Opatovice - Matrika;Opatovice;Olomoucký;49.49919;17.73918;obec@opatovice.cz;1;;00301655;u7vbca6;SOVM/DIA;2026-11-27
-10405;Obecní úřad Osek nad Bečvou - Matrika;Osek nad Bečvou;Olomoucký;49.51121;17.52829;matrika@oseknadbecvou.cz;1;"mistostarosta@oseknadbecvou.cz;starosta@oseknadbecvou.cz;info@oseknadbecvou.cz;ucetni@oseknadbecvou.cz";00301680;g9gbb9v;SOVM/DIA;2026-11-27
+10405;Obecní úřad Osek nad Bečvou - Matrika;Osek nad Bečvou;Olomoucký;49.51121;17.52829;matrika@oseknadbecvou.cz;1;"starosta@oseknadbecvou.cz;info@oseknadbecvou.cz;ucetni@oseknadbecvou.cz;mistostarosta@oseknadbecvou.cz";00301680;g9gbb9v;SOVM/DIA;2026-11-27
 10561;Obecní úřad Oskava - Matrika;Oskava;Olomoucký;49.89523;17.13214;podatelna@ou-oskava.cz;2;;00303101;8f7bb85;SOVM/DIA;2026-11-27
 10219;Obecní úřad Otaslavice - Matrika;Otaslavice;Olomoucký;49.38833;17.07108;starosta@otaslavice.cz;1;;00288586;rcnbb6f;SOVM/DIA;2026-11-27
 09911;Obecní úřad Paseka - Matrika;Paseka;Olomoucký;49.79644;17.22276;podatelna@obecpaseka.cz;1;"kovarova@obecpaseka.cz;tomankova@obecpaseka.cz;niessnerova@obecpaseka.cz";00299316;m7ibb52;SOVM/DIA;2026-11-27
@@ -648,19 +648,19 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 09920;Obecní úřad Senice na Hané - Matrika;Senice na Hané;Olomoucký;49.62401;17.08578;obec@senicenahane.cz;1;;00299421;89pbbid;SOVM/DIA;2026-11-27
 10260;Obecní úřad Smržice - Matrika;Smržice;Olomoucký;49.50569;17.10698;starostka@smrzice.cz;1;;00288772;d7rbbfg;SOVM/DIA;2026-11-27
 10430;Obecní úřad Soběchleby - Matrika;Soběchleby;Olomoucký;49.47886;17.65153;podatelna@sobechleby.cz;1;;00301965;p5fbsbd;SOVM/DIA;2026-11-27
-10600;Městský úřad Staré Město - Matrika (Olomoucký kraj);Staré Město;Olomoucký;50.16174;16.94734;starosta@mu-staremesto.cz;1;"mistostarosta@mu-staremesto.cz;podatelna@mu-staremesto.cz";00303364;tw4bbbh;SOVM/DIA;2026-11-27
+10600;Městský úřad Staré Město - Matrika (Olomoucký kraj);Staré Město;Olomoucký;50.16174;16.94734;starosta@mu-staremesto.cz;1;"podatelna@mu-staremesto.cz;mistostarosta@mu-staremesto.cz";00303364;tw4bbbh;SOVM/DIA;2026-11-27
 10448;Městský úřad Tovačov - Matrika;Tovačov;Olomoucký;49.43083;17.28795;mu@tovacov.cz;1;;00302082;nppbaz6;SOVM/DIA;2026-11-27
 09970;Obecní úřad Troubelice - Matrika;Troubelice;Olomoucký;49.81731;17.08100;starosta@troubelice.cz;1;"troubelice@volny.cz;mdostal@troubelice.cz";00299570;x9ebzsq;SOVM/DIA;2026-11-27
 10456;Obecní úřad Troubky - Matrika;Troubky;Olomoucký;49.43215;17.34914;podatelna@troubky.cz;2;;00302104;9uyb8nq;SOVM/DIA;2026-11-27
 09989;Obecní úřad Tršice - Matrika;Tršice;Olomoucký;49.54237;17.42483;ou@trsice.cz;1;;00299588;wsvbawp;SOVM/DIA;2026-11-27
 10006;Městský úřad Uničov - Matrika;Uničov;Olomoucký;49.77092;17.12144;mu@unicov.cz;2;;00299634;zbdb4bg;SOVM/DIA;2026-11-27
-10278;Obecní úřad Určice - Matrika;Určice;Olomoucký;49.43045;17.07291;obecurcice@volny.cz;1;"mistostarosta@urcice.cz;starosta@urcice.cz;z.hrdlickova@urcice.cz;d.dragonova@urcice.cz;g.taberyova@urcice.cz";00288870;mbhbath;SOVM/DIA;2026-11-27
+10278;Obecní úřad Určice - Matrika;Určice;Olomoucký;49.43045;17.07291;obecurcice@volny.cz;1;"starosta@urcice.cz;mistostarosta@urcice.cz;z.hrdlickova@urcice.cz;d.dragonova@urcice.cz;g.taberyova@urcice.cz";00288870;mbhbath;SOVM/DIA;2026-11-27
 10014;Městský úřad Velká Bystřice - Matrika;Velká Bystřice;Olomoucký;49.59480;17.36544;info@muvb.cz;1;;00299651;tv5bqfv;SOVM/DIA;2026-11-27
 10634;Obecní úřad Velké Losiny - Matrika;Velké Losiny;Olomoucký;50.03197;17.04058;podatelna@losiny.cz;1;;00303551;hgabapt;SOVM/DIA;2026-11-27
 10022;Obecní úřad Velký Týnec - Matrika;Velký Týnec;Olomoucký;49.54994;17.33359;velkytynec@velkytynec.cz;1;;00299669;uqkbams;SOVM/DIA;2026-11-27
 10030;Úřad městyse Velký Újezd - Matrika;Velký Újezd;Olomoucký;49.57858;17.48347;podatelna@velkyujezd.cz;2;;00299677;jxbbamv;SOVM/DIA;2026-11-27
 09717;Městský úřad Vidnava - Matrika;Vidnava;Olomoucký;50.37234;17.18626;starostka@vidnava.cz;1;;00303585;7ywbajq;SOVM/DIA;2026-11-27
-10464;Obecní úřad Všechovice - Matrika;Všechovice;Olomoucký;49.46276;17.75814;obec@vsechovice.eu;1;"stavebniurad@vsechovice.eu;matrika@vsechovice.eu;starosta@vsechovice.eu;vsechovice@vsechovice.eu";00302228;qvdbah2;SOVM/DIA;2026-11-27
+10464;Obecní úřad Všechovice - Matrika;Všechovice;Olomoucký;49.46276;17.75814;obec@vsechovice.eu;1;"matrika@vsechovice.eu;starosta@vsechovice.eu;stavebniurad@vsechovice.eu;vsechovice@vsechovice.eu";00302228;qvdbah2;SOVM/DIA;2026-11-27
 09725;Městský úřad Zlaté Hory - Matrika;Zlaté Hory;Olomoucký;50.26380;17.39602;mesto@zlatehory.cz;2;podatelna@zlatehory.cz;00296481;rx8a99k;SOVM/DIA;2026-11-27
 10642;Městský úřad Zábřeh - Matrika;Zábřeh;Olomoucký;49.88260;16.87223;posta@muzabreh.cz;2;;00303640;hk9bq2f;SOVM/DIA;2026-11-27
 09997;Obecní úřad Újezd - Matrika (Olomoucký kraj);Újezd;Olomoucký;49.76397;17.18040;podatelna@obec-ujezd.cz;1;;00299618;6v3bat9;SOVM/DIA;2026-11-27
@@ -671,7 +671,7 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 09938;Městský úřad Štěpánov - Matrika;Štěpánov;Olomoucký;49.68404;17.22041;starosta@stepanov.cz;1;"stepanov@stepanov.cz;tajemnik@stepanov.cz";00299511;8xab2jm;SOVM/DIA;2026-11-27
 10472;Městský úřad Šumperk - Matrika;Šumperk;Olomoucký;49.96528;16.97061;posta@musumperk.cz;1;;00303461;8bqb4gk;SOVM/DIA;2026-11-27
 09954;Obecní úřad Šumvald - Matrika;Šumvald;Olomoucký;49.83104;17.13275;sumvald@sumvald.cz;1;vse@sumvald.cz;00299537;b5gba6h;SOVM/DIA;2026-11-27
-09733;Městský úřad Žulová - Matrika;Žulová;Olomoucký;50.30933;17.09871;mu.zulova.sekretariat@jen.cz;2;mu.zulova@jen.cz;00303682;j5ub744;SOVM/DIA;2026-11-27
+09733;Městský úřad Žulová - Matrika;Žulová;Olomoucký;50.30933;17.09871;mu.zulova@jen.cz;1;mu.zulova.sekretariat@jen.cz;00303682;j5ub744;SOVM/DIA;2026-11-27
 06947;Městský úřad Brandýs nad Orlicí - Matrika;Brandýs nad Orlicí;Pardubický;50.00194;16.28528;info@mesto-brandys.cz;1;starosta@mesto-brandys.cz;00278564;w9abfcc;SOVM/DIA;2026-11-27
 06831;Obecní úřad Brněnec - Matrika;Brněnec;Pardubický;49.62735;16.52202;starosta@brnenec.cz;1;;00276464;wi7be94;SOVM/DIA;2026-11-27
 06858;Městský úřad Bystré - Matrika;Bystré;Pardubický;49.62846;16.34679;sekretariat@bystre.cz;2;bystre@bystre.cz;00276529;22nbxdq;SOVM/DIA;2026-11-27
@@ -686,7 +686,7 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 06980;Obecní úřad Dolní Dobrouč - Matrika;Dolní Dobrouč;Pardubický;49.99273;16.49766;obecniurad@dolnidobrouc.cz;1;;00278742;yz2b3vb;SOVM/DIA;2026-11-27
 06866;Obecní úřad Dolní Újezd - Matrika;Dolní Újezd;Pardubický;49.82562;16.25461;obec@dolniujezd.cz;1;;00276596;j4abqyf;SOVM/DIA;2026-11-27
 06971;Úřad městyse Dolní Čermná - Matrika;Dolní Čermná;Pardubický;49.97954;16.56475;mestys@dolni-cermna.cz;1;;00278734;pxkber4;SOVM/DIA;2026-11-27
-06572;Městský úřad Heřmanův Městec - Matrika;Heřmanův Městec;Pardubický;49.94707;15.66492;meu@mesto-hm.cz;1;epodatelna@mesto-hm.cz;00270041;n5wb35z;SOVM/DIA;2026-11-27
+06572;Městský úřad Heřmanův Městec - Matrika;Heřmanův Městec;Pardubický;49.94707;15.66492;epodatelna@mesto-hm.cz;2;meu@mesto-hm.cz;00270041;n5wb35z;SOVM/DIA;2026-11-27
 06580;Městský úřad Hlinsko - Matrika;Hlinsko;Pardubický;49.76213;15.90756;mesto@hlinsko.cz;1;epodatelna@hlinsko.cz;00270059;k4hby3r;SOVM/DIA;2026-11-27
 06726;Městský úřad Holice - Matrika;Holice;Pardubický;50.06601;15.98590;holice@mestoholice.cz;1;;00273571;hwkbrgj;SOVM/DIA;2026-11-27
 06734;Městský úřad Horní Jelení - Matrika;Horní Jelení;Pardubický;50.04901;16.08396;obec@hornijeleni.cz;1;;00273589;5dkbd7x;SOVM/DIA;2026-11-27
@@ -733,10 +733,10 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 04146;Úřad městyse Chodová Planá - Matrika;Chodová Planá;Plzeňský;49.89321;12.73014;mestys@chodovaplana.cz;1;tajemnik@chodovaplana.cz;00259861;sefb3dc;SOVM/DIA;2026-11-27
 03859;Obecní úřad Chotíkov - Matrika;Chotíkov;Plzeňský;49.79294;13.31766;chotikov@volny.cz;1;;00257834;ugwbey5;SOVM/DIA;2026-11-27
 03697;Obecní úřad Chotěšov - Matrika;Chotěšov;Plzeňský;49.65408;13.20271;podatelna@obec-chotesov.cz;1;;00256706;i9tb6sj;SOVM/DIA;2026-11-27
-03867;Obecní úřad Chrást - Matrika;Chrást;Plzeňský;49.79320;13.49358;referent@obecchrast.cz;1;"starosta@obecchrast.cz;podatelna@obecchrast.cz";00257851;g2gb2h5;SOVM/DIA;2026-11-27
+03867;Obecní úřad Chrást - Matrika;Chrást;Plzeňský;49.79320;13.49358;starosta@obecchrast.cz;1;"podatelna@obecchrast.cz;referent@obecchrast.cz";00257851;g2gb2h5;SOVM/DIA;2026-11-27
 03468;Úřad městyse Chudenice - Matrika;Chudenice;Plzeňský;49.46668;13.17386;ouchudenice@quick.cz;2;;00255599;rzpb3q8;SOVM/DIA;2026-11-27
 03689;Městský úřad Dobřany - Matrika;Dobřany;Plzeňský;49.65482;13.29307;podatelna@dobrany.cz;2;dobrany@dobrany.cz;00256552;9y9b44e;SOVM/DIA;2026-11-27
-03336;Městský úřad Domažlice - Matrika;Domažlice;Plzeňský;49.44049;12.92976;milena.vlckova@mesto-domazlice.cz;1;"miroslav.mach@mesto-domazlice.cz;posta@mesto-domazlice.cz;podatelna@mesto-domazlice.cz";00253316;q25byeg;SOVM/DIA;2026-11-27
+03336;Městský úřad Domažlice - Matrika;Domažlice;Plzeňský;49.44049;12.92976;posta@mesto-domazlice.cz;1;"podatelna@mesto-domazlice.cz;milena.vlckova@mesto-domazlice.cz;miroslav.mach@mesto-domazlice.cz";00253316;q25byeg;SOVM/DIA;2026-11-27
 03441;Městský úřad Hartmanice - Matrika;Hartmanice;Plzeňský;49.16948;13.45455;podatelna@muhartmanice.cz;1;;00255467;mknbxxv;SOVM/DIA;2026-11-27
 03832;Obecní úřad Heřmanova Huť - Matrika;Heřmanova Huť;Plzeňský;49.70679;13.10069;podatelna@hermanovahut.cz;2;;00257753;ueabpbx;SOVM/DIA;2026-11-27
 03352;Městský úřad Holýšov - Matrika;Holýšov;Plzeňský;49.59361;13.10129;radnice@mestoholysov.cz;1;"mesto@mestoholysov.cz;informacnicentrum@mestoholysov.cz";00253367;yfibebs;SOVM/DIA;2026-11-27
@@ -748,7 +748,7 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 03700;Městský úřad Kasejovice - Matrika;Kasejovice;Plzeňský;49.46270;13.74060;mu@kasejovice.cz;1;;00256731;3eibzt5;SOVM/DIA;2026-11-27
 03875;Městský úřad Kaznějov - Matrika;Kaznějov;Plzeňský;49.89313;13.38295;urad@kaznejov.cz;1;mesto@kaznejov.cz;00257893;wrzbdp2;SOVM/DIA;2026-11-27
 03484;Městský úřad Kašperské Hory - Matrika;Kašperské Hory;Plzeňský;49.14289;13.55616;urad@kasphory.cz;1;;00255645;kwjbxui;SOVM/DIA;2026-11-27
-03379;Městský úřad Kdyně - Matrika;Kdyně;Plzeňský;49.39077;13.03968;kralova@radnice.kdyne.cz;1;"tajemnice@radnice.kdyne.cz;podatelna@radnice.kdyne.cz";00253464;myqbdp5;SOVM/DIA;2026-11-27
+03379;Městský úřad Kdyně - Matrika;Kdyně;Plzeňský;49.39077;13.03968;podatelna@radnice.kdyne.cz;2;"kralova@radnice.kdyne.cz;tajemnice@radnice.kdyne.cz";00253464;myqbdp5;SOVM/DIA;2026-11-27
 04154;Městský úřad Kladruby - Matrika;Kladruby;Plzeňský;49.71498;12.98232;obec@kladruby.cz;1;"obec.kladruby@wo.cz;podatelna@kladruby.cz;kladruby@tiscali.cz";00259888;2syb3q4;SOVM/DIA;2026-11-27
 03425;Městský úřad Klatovy - Matrika;Klatovy;Plzeňský;49.39552;13.29505;posta@mukt.cz;1;;00255661;24ebrt5;SOVM/DIA;2026-11-27
 03387;Úřad městyse Klenčí pod Čerchovem - Matrika;Klenčí pod Čerchovem;Plzeňský;49.43484;12.81473;urad.mestyse@klenci.cz;1;;00253472;tkvbdnm;SOVM/DIA;2026-11-27
@@ -779,13 +779,13 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 03557;Městský úřad Plánice - Matrika;Plánice;Plzeňský;49.38993;13.47106;podatelna@planice.cz;2;muplanice@planice.cz;00255980;cp6bb2w;SOVM/DIA;2026-11-27
 03409;Městský úřad Poběžovice - Matrika;Poběžovice;Plzeňský;49.51029;12.80261;starosta@pobezovice.cz;1;tajemnik@pobezovice.cz;00253669;zqzby7d;SOVM/DIA;2026-11-27
 03751;Městský úřad Přeštice - Matrika;Přeštice;Plzeňský;49.57298;13.33350;podatelna@prestice-mesto.cz;1;;00257125;hcpbx62;SOVM/DIA;2026-11-27
-04170;Městský úřad Přimda - Matrika;Přimda;Plzeňský;49.67488;12.67366;mistostarosta@mestoprimda.cz;1;"starosta@mestoprimda.cz;info@mestoprimda.cz;sekretariat@mestoprimda.cz";00260118;ww3bhph;SOVM/DIA;2026-11-27
+04170;Městský úřad Přimda - Matrika;Přimda;Plzeňský;49.67488;12.67366;starosta@mestoprimda.cz;1;"info@mestoprimda.cz;sekretariat@mestoprimda.cz;mistostarosta@mestoprimda.cz";00260118;ww3bhph;SOVM/DIA;2026-11-27
 03565;Městský úřad Rabí - Matrika;Rabí;Plzeňský;49.28074;13.61761;starosta@mestorabi.cz;1;info@mestorabi.cz;00256030;dhgbx2b;SOVM/DIA;2026-11-27
 04073;Městský úřad Radnice - Matrika;Radnice;Plzeňský;49.85677;13.60570;starosta@mesto-radnice.cz;1;olga.polakova@mesto-radnice.cz;00259021;c9sb4dp;SOVM/DIA;2026-11-27
 04030;Městský úřad Rokycany - Matrika;Rokycany;Plzeňský;49.74270;13.59459;posta@rokycany.cz;1;;00259047;mmfb7hp;SOVM/DIA;2026-11-27
 03760;Městský úřad Spálené Poříčí - Matrika;Spálené Poříčí;Plzeňský;49.61371;13.60556;mesto@spaleneporici.cz;1;podatelna@spaleneporici.cz;00257249;5m3bhef;SOVM/DIA;2026-11-27
 03778;Městský úřad Starý Plzenec - Matrika;Starý Plzenec;Plzeňský;49.69768;13.47350;podatelna@staryplzenec.cz;1;staryplzenec@ipodatelna.cz;00257257;dyrbzpq;SOVM/DIA;2026-11-27
-03417;Městský úřad Staňkov - Matrika;Staňkov;Plzeňský;49.55348;13.06976;mistostarosta@mestostankov.cz;1;"starosta@mestostankov.cz;tajemnik@mestostankov.cz;holecek@mestostankov.cz;podatelna@mestostankov.cz";00253766;xmub3pq;SOVM/DIA;2026-11-27
+03417;Městský úřad Staňkov - Matrika;Staňkov;Plzeňský;49.55348;13.06976;starosta@mestostankov.cz;1;"podatelna@mestostankov.cz;mistostarosta@mestostankov.cz;tajemnik@mestostankov.cz;holecek@mestostankov.cz";00253766;xmub3pq;SOVM/DIA;2026-11-27
 03786;Městský úřad Stod - Matrika;Stod;Plzeňský;49.63909;13.16474;podatelna@mestostod.cz;1;radnice@mestostod.cz;00257265;u4abzrc;SOVM/DIA;2026-11-27
 04081;Obecní úřad Strašice - Matrika;Strašice;Plzeňský;49.73552;13.75755;obec@strasice.eu;1;;00259098;58rbiar;SOVM/DIA;2026-11-27
 03573;Obecní úřad Strašín - Matrika;Strašín;Plzeňský;49.17924;13.64040;oustrasin@quick.cz;1;;00256099;w32bx23;SOVM/DIA;2026-11-27
@@ -793,8 +793,8 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 03581;Městský úřad Strážov - Matrika;Strážov;Plzeňský;49.30326;13.24623;mesto@strazov.cz;1;;00256102;xmxbrcm;SOVM/DIA;2026-11-27
 04197;Městský úřad Stříbro - Matrika;Stříbro;Plzeňský;49.75565;12.99700;posta@mustribro.cz;1;stribro@ipodatelna.cz;00260177;gkub5mb;SOVM/DIA;2026-11-27
 03590;Městský úřad Sušice - Matrika;Sušice;Plzeňský;49.23106;13.52018;epodatelna@mususice.cz;2;pmottl@mususice.cz;00256129;i7ab4sa;SOVM/DIA;2026-11-27
-04103;Městský úřad Tachov - Matrika;Tachov;Plzeňský;49.79528;12.63365;zdenek.uhlik@tachov-mesto.cz;1;podatelna@tachov-mesto.cz;00260231;2tubyxs;SOVM/DIA;2026-11-27
-03972;Městský úřad Třemošná - Matrika;Třemošná;Plzeňský;49.81584;13.39499;mistostarosta@tremosna.cz;1;"starosta@tremosna.cz;epodatelna@tremosna.cz;tajemnik@tremosna.cz;tremosna@tremosna.cz";00258415;vmbbvu6;SOVM/DIA;2026-11-27
+04103;Městský úřad Tachov - Matrika;Tachov;Plzeňský;49.79528;12.63365;podatelna@tachov-mesto.cz;1;zdenek.uhlik@tachov-mesto.cz;00260231;2tubyxs;SOVM/DIA;2026-11-27
+03972;Městský úřad Třemošná - Matrika;Třemošná;Plzeňský;49.81584;13.39499;starosta@tremosna.cz;1;"epodatelna@tremosna.cz;tajemnik@tremosna.cz;mistostarosta@tremosna.cz;tremosna@tremosna.cz";00258415;vmbbvu6;SOVM/DIA;2026-11-27
 03999;Obecní úřad Vejprnice - Matrika;Vejprnice;Plzeňský;49.72988;13.27628;sekretariat@vejprnice.cz;1;;00258474;yjtbarh;SOVM/DIA;2026-11-27
 03611;Obecní úřad Velhartice - Matrika;Velhartice;Plzeňský;49.26519;13.38975;velhartice@raz-dva.cz;1;;00256242;976bq79;SOVM/DIA;2026-11-27
 04006;Městský úřad Všeruby - Matrika;Všeruby;Plzeňský;49.84167;13.22943;starosta@vseruby.info;1;"vseruby@iol.cz;ouvseruby@c-box.cz";00258512;6wubid3;SOVM/DIA;2026-11-27
@@ -802,16 +802,16 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 04014;Obecní úřad Zbůch - Matrika;Zbůch;Plzeňský;49.67840;13.22564;info@zbuch.cz;1;;00258555;c23btkp;SOVM/DIA;2026-11-27
 03980;Městský úřad Úterý - Matrika;Úterý;Plzeňský;49.94007;13.00418;info@mesto-utery.cz;1;ucetni@mesto-utery.cz;00258466;ghmbhq6;SOVM/DIA;2026-11-27
 04138;Městský úřad Černošín - Matrika;Černošín;Plzeňský;49.81613;12.88381;obec@cernosin.cz;1;"mesto@cernosin.cz;posta@cernosin.cz";00259772;85ebe4n;SOVM/DIA;2026-11-27
-03808;Obecní úřad Štěnovice - Matrika;Štěnovice;Plzeňský;49.67051;13.39963;mistostarosta@stenovice.cz;2;"podatelna@stenovice.cz;starosta@stenovice.cz;stavebniurad@stenovice.cz;matrika@stenovice.cz;uctarna@stenovice.cz";00257303;rpnbhd6;SOVM/DIA;2026-11-27
+03808;Obecní úřad Štěnovice - Matrika;Štěnovice;Plzeňský;49.67051;13.39963;podatelna@stenovice.cz;2;"starosta@stenovice.cz;matrika@stenovice.cz;mistostarosta@stenovice.cz;stavebniurad@stenovice.cz;uctarna@stenovice.cz";00257303;rpnbhd6;SOVM/DIA;2026-11-27
 03603;Městský úřad Švihov - Matrika;Švihov;Plzeňský;49.48136;13.28417;mu@svihov.jz.cz;1;;00256153;x63ba4c;SOVM/DIA;2026-11-27
-03794;Obecní úřad Šťáhlavy - Matrika;Šťáhlavy;Plzeňský;49.67555;13.50394;sekretariat@stahlavy.cz;1;"matrika@stahlavy.cz;starosta@stahlavy.cz;stahlavy@obecni-urad.net;ucetni@stahlavy.cz;tajemnik@stahlavy.cz";00257290;7vhbbcq;SOVM/DIA;2026-11-27
+03794;Obecní úřad Šťáhlavy - Matrika;Šťáhlavy;Plzeňský;49.67555;13.50394;sekretariat@stahlavy.cz;1;"matrika@stahlavy.cz;starosta@stahlavy.cz;ucetni@stahlavy.cz;tajemnik@stahlavy.cz;stahlavy@obecni-urad.net";00257290;7vhbbcq;SOVM/DIA;2026-11-27
 03638;Městský úřad Železná Ruda - Matrika;Železná Ruda;Plzeňský;49.13743;13.23520;starosta@zeleznaruda.cz;1;;00256358;u5cbaav;SOVM/DIA;2026-11-27
 03654;Obecní úřad Žichovice - Matrika;Žichovice;Plzeňský;49.26723;13.62784;ouzichovice@raz-dva.cz;1;;00256374;7vbbx2v;SOVM/DIA;2026-11-27
-04022;Obecní úřad Žihle - Matrika;Žihle;Plzeňský;50.04491;13.37502;starosta@obec-zihle.cz;1;"matrika@obec-zihle.cz;pokladna@obec-zihle.cz;ucetni@obec-zihle.cz;podatelna@obec-zihle.cz;j.fila1@seznam.cz";00258580;39pb5wx;SOVM/DIA;2026-11-27
+04022;Obecní úřad Žihle - Matrika;Žihle;Plzeňský;50.04491;13.37502;starosta@obec-zihle.cz;1;"matrika@obec-zihle.cz;podatelna@obec-zihle.cz;j.fila1@seznam.cz;ivo.gruner@tiscali.cz;pokladna@obec-zihle.cz";00258580;39pb5wx;SOVM/DIA;2026-11-27
 03646;Obecní úřad Žihobce - Matrika;Žihobce;Plzeňský;49.21545;13.63173;obec@zihobce.eu;1;ouzihobce@susice.cz;00256366;gnkbx3q;SOVM/DIA;2026-11-27
 03816;Úřad městyse Žinkovy - Matrika;Žinkovy;Plzeňský;49.48340;13.48944;starosta@zinkovy.cz;1;;00257508;2rha99f;SOVM/DIA;2026-11-27
 01112;Městský úřad Bakov nad Jizerou - Matrika;Bakov nad Jizerou;Středočeský;50.48230;14.94149;info@bakovnj.cz;1;;00237418;6xqbfks;SOVM/DIA;2026-11-27
-00230;Městský úřad Benešov - Matrika (Středočeský kraj);Benešov;Středočeský;49.78162;14.68697;epodatelna@benesov-city.cz;2;mu-bene@benesov-city.cz;00231401;cb4bwan;SOVM/DIA;2026-11-27
+00230;Městský úřad Benešov - Matrika (Středočeský kraj);Benešov;Středočeský;49.78162;14.68697;mu-bene@benesov-city.cz;1;epodatelna@benesov-city.cz;00231401;cb4bwan;SOVM/DIA;2026-11-27
 01139;Městský úřad Benátky nad Jizerou - Matrika;Benátky nad Jizerou;Středočeský;50.29085;14.82343;podatelna@benatky.cz;1;;00237442;wzhbv2s;SOVM/DIA;2026-11-27
 00388;Městský úřad Beroun - Matrika;Beroun;Středočeský;49.96382;14.07200;podatelna@muberoun.cz;1;posta@muberoun.cz;00233129;2gubtq5;SOVM/DIA;2026-11-27
 01147;Úřad městyse Bezno - Matrika;Bezno;Středočeský;50.36729;14.79562;starosta@bezno.cz;1;;00237469;7hcb7xj;SOVM/DIA;2026-11-27
@@ -828,7 +828,7 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 01198;Úřad městyse Chotětov - Matrika;Chotětov;Středočeský;50.33743;14.80152;chotetov.starosta@tiscali.cz;1;chotetov@login.cz;00237914;et4bg4c;SOVM/DIA;2026-11-27
 01570;Úřad městyse Davle - Matrika;Davle;Středočeský;49.89218;14.40037;starosta@obecdavle.cz;1;;00241156;aeybpn5;SOVM/DIA;2026-11-27
 00272;Úřad městyse Divišov - Matrika;Divišov;Středočeský;49.78849;14.87579;podatelna@divisov.cz;1;pekarek@divisov.cz;00231690;qmpbeue;SOVM/DIA;2026-11-27
-01171;Městský úřad Dobrovice - Matrika;Dobrovice;Středočeský;50.36933;14.96233;mestskyurad@dobrovice.cz;1;podatelna@dobrovice.cz;00237663;gwabtqc;SOVM/DIA;2026-11-27
+01171;Městský úřad Dobrovice - Matrika;Dobrovice;Středočeský;50.36933;14.96233;podatelna@dobrovice.cz;2;mestskyurad@dobrovice.cz;00237663;gwabtqc;SOVM/DIA;2026-11-27
 01589;Městský úřad Dobřichovice - Matrika;Dobřichovice;Středočeský;49.92749;14.27469;info@dobrichovice.cz;1;;00241181;v9ubetv;SOVM/DIA;2026-11-27
 01791;Městský úřad Dobříš - Matrika;Dobříš;Středočeský;49.78113;14.16717;epodatelna@mestodobris.cz;2;;00242098;pnxbx8u;SOVM/DIA;2026-11-27
 01180;Městský úřad Dolní Bousov - Matrika;Dolní Bousov;Středočeský;50.43825;15.12812;podatelna@dolni-bousov.cz;2;;00237680;ibfbesk;SOVM/DIA;2026-11-27
@@ -839,7 +839,7 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 01309;Obecní úřad Dymokury - Matrika;Dymokury;Středočeský;50.24568;15.20255;obecniurad@dymokury.cz;2;"ambroz@dymokury.cz;perinova@dymokury.cz;charova@dymokury.cz";00239089;q2fbehi;SOVM/DIA;2026-11-27
 00965;Obecní úřad Dřísy - Matrika;Dřísy;Středočeský;50.25599;14.64355;ou.drisy@seznam.cz;1;;00236811;485b6fg;SOVM/DIA;2026-11-27
 01821;Obecní úřad Hluboš - Matrika;Hluboš;Středočeský;49.74622;14.02019;ouhlubos@volny.cz;2;;00242225;3knbec7;SOVM/DIA;2026-11-27
-01600;Obecní úřad Horoměřice - Matrika;Horoměřice;Středočeský;50.13173;14.33879;podatelna@horomerice.cz;2;ou_horomerice@volny.cz;00241229;m93bd5b;SOVM/DIA;2026-11-27
+01600;Obecní úřad Horoměřice - Matrika;Horoměřice;Středočeský;50.13173;14.33879;ou_horomerice@volny.cz;1;podatelna@horomerice.cz;00241229;m93bd5b;SOVM/DIA;2026-11-27
 01619;Městský úřad Hostivice - Matrika;Hostivice;Středočeský;50.08158;14.25856;info@radnice.hostivice.cz;2;;00241237;cdrb236;SOVM/DIA;2026-11-27
 00418;Městský úřad Hostomice - Matrika;Hostomice;Středočeský;49.82526;14.04560;starosta@hostomice.cz;1;;00233269;i4xbd4w;SOVM/DIA;2026-11-27
 00400;Městský úřad Hořovice - Matrika;Hořovice;Středočeský;49.83597;13.90268;e-podatelna@mesto-horovice.cz;1;;00233242;yjmbxfn;SOVM/DIA;2026-11-27
@@ -881,7 +881,7 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 00841;Úřad městyse Kácov - Matrika;Kácov;Středočeský;49.77787;15.02789;oupodatelna@kacov.cz;1;;00236144;439bdrt;SOVM/DIA;2026-11-27
 01341;Úřad městyse Křinec - Matrika;Křinec;Středočeský;50.26449;15.13782;obeckrinec@quick.cz;1;podatelna@quick.cz;00239364;grbbdds;SOVM/DIA;2026-11-27
 02054;Úřad městyse Křivoklát - Matrika;Křivoklát;Středočeský;50.03785;13.87036;epodatelna@mestys-krivoklat.cz;1;;00243973;wizb3x9;SOVM/DIA;2026-11-27
-00566;Městský úřad Libušín - Matrika;Libušín;Středočeský;50.16819;14.05458;starosta@mestolibusin.cz;1;"mistostarosta@mestolibusin.cz;tajemnik@mestolibusin.cz;ucetni@mestolibusin.cz;matrika@mestolibusin.cz;podatelna@mestolibusin.cz";00234630;mnebsdb;SOVM/DIA;2026-11-27
+00566;Městský úřad Libušín - Matrika;Libušín;Středočeský;50.16819;14.05458;starosta@mestolibusin.cz;1;"matrika@mestolibusin.cz;podatelna@mestolibusin.cz;mistostarosta@mestolibusin.cz;tajemnik@mestolibusin.cz;ucetni@mestolibusin.cz";00234630;mnebsdb;SOVM/DIA;2026-11-27
 01651;Městský úřad Libčice nad Vltavou - Matrika;Libčice nad Vltavou;Středočeský;50.19778;14.36385;podatelna@libcice.cz;1;;00241407;3eqbc5y;SOVM/DIA;2026-11-27
 00990;Městský úřad Liběchov - Matrika;Liběchov;Středočeský;50.40784;14.44675;ou@libechov.cz;1;;00237019;hk6b3di;SOVM/DIA;2026-11-27
 00574;Obecní úřad Lidice - Matrika;Lidice;Středočeský;50.14352;14.19013;lidice3@volny.cz;1;;00234648;3uxb59t;SOVM/DIA;2026-11-27
@@ -917,7 +917,7 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 00850;Úřad městyse Nové Dvory - Matrika;Nové Dvory;Středočeský;49.96821;15.32790;;;;;;;
 02119;Městský úřad Nové Strašecí - Matrika;Nové Strašecí;Středočeský;50.15272;13.90043;podatelna@novestraseci.cz;1;podatelna.novestraseci@obecni-urad.net;00244155;h2sbx9c;SOVM/DIA;2026-11-27
 01929;Městský úřad Nový Knín - Matrika;Nový Knín;Středočeský;49.78800;14.29355;tomas.havlicek@mestonovyknin.cz;1;;00242888;xqjbgzr;SOVM/DIA;2026-11-27
-01678;Obecní úřad Nučice - Matrika;Nučice;Středočeský;50.01848;14.22997;obec.nucice@volny.cz;1;"nucice@obec.cz;ounucice@volny.cz";00233668;433b2fy;SOVM/DIA;2026-11-27
+01678;Obecní úřad Nučice - Matrika;Nučice;Středočeský;50.01848;14.22997;obec.nucice@volny.cz;1;"ounucice@volny.cz;nucice@obec.cz";00233668;433b2fy;SOVM/DIA;2026-11-27
 01295;Městský úřad Nymburk - Matrika;Nymburk;Středočeský;50.18605;15.04167;mail@meu-nbk.cz;1;;00239500;86abcbd;SOVM/DIA;2026-11-27
 01937;Obecní úřad Obecnice - Matrika;Obecnice;Středočeský;49.71615;13.94731;ou.obecnice@volny.cz;1;obec.obecnice@volny.cz;00242918;d3ab3px;SOVM/DIA;2026-11-27
 01058;Obecní úřad Obříství - Matrika;Obříství;Středočeský;50.29588;14.47838;obec.obristvi@obristvi.cz;1;;00237141;auhbwvz;SOVM/DIA;2026-11-27
@@ -938,11 +938,11 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 01953;Městský úřad Rožmitál pod Třemšínem - Matrika;Rožmitál pod Třemšínem;Středočeský;49.60196;13.86430;mesto@rozmitalptr.cz;1;;00243221;c4wbbp2;SOVM/DIA;2026-11-27
 01414;Městský úřad Rožďalovice - Matrika;Rožďalovice;Středočeský;50.30476;15.16962;obec.rozdalovice@mybox.cz;1;;00239712;xq9b2wp;SOVM/DIA;2026-11-27
 01708;Městský úřad Rudná - Matrika;Rudná;Středočeský;50.03502;14.23435;sekretariat@rudnamesto.cz;1;;00233773;yhybsn6;SOVM/DIA;2026-11-27
-02143;Obecní úřad Rynholec - Matrika;Rynholec;Středočeský;50.13793;13.92222;dyntar@obecrynholec.cz;1;"franc@obecrynholec.cz;ondruj@obecrynholec.cz;ucetni@obecrynholec.cz;urad@obecrynholec.cz";00244341;ujfbgyc;SOVM/DIA;2026-11-27
+02143;Obecní úřad Rynholec - Matrika;Rynholec;Středočeský;50.13793;13.92222;urad@obecrynholec.cz;1;"dyntar@obecrynholec.cz;franc@obecrynholec.cz;ondruj@obecrynholec.cz;ucetni@obecrynholec.cz";00244341;ujfbgyc;SOVM/DIA;2026-11-27
 01422;Městský úřad Sadská - Matrika;Sadská;Středočeský;50.13596;14.98633;info@mesto-sadska.cz;1;;00239721;trubtz7;SOVM/DIA;2026-11-27
 00329;Městský úřad Sedlec-Prčice - Matrika;Sedlec-Prčice;Středočeský;49.57268;14.53262;podatelna.mu@sedlec-prcice.cz;1;;00232645;bqibx7j;SOVM/DIA;2026-11-27
 01961;Městský úřad Sedlčany - Matrika;Sedlčany;Středočeský;49.66057;14.42664;podatelna@mesto-sedlcany.cz;2;;00243272;frsbn7e;SOVM/DIA;2026-11-27
-02160;Úřad městyse Senomaty - Matrika;Senomaty;Středočeský;50.09817;13.65372;info.senomaty@seznam.cz;1;ou.senomaty@tiscali.cz;00244384;ygebbih;SOVM/DIA;2026-11-27
+02160;Úřad městyse Senomaty - Matrika;Senomaty;Středočeský;50.09817;13.65372;ou.senomaty@tiscali.cz;1;info.senomaty@seznam.cz;00244384;ygebbih;SOVM/DIA;2026-11-27
 01260;Obecní úřad Skalsko - Matrika;Skalsko;Středočeský;50.42712;14.75903;skalsko@skalsko.cz;1;;00238619;mqub6qp;SOVM/DIA;2026-11-27
 02178;Úřad městyse Slabce - Matrika;Slabce;Středočeský;50.00007;13.71478;mestysslabce@seznam.cz;1;;00244422;bqqbbhe;SOVM/DIA;2026-11-27
 00590;Městský úřad Slaný - Matrika;Slaný;Středočeský;50.23046;14.08693;podatelna@meuslany.cz;2;kolackovsky@meuslany.cz;00234877;h3jb7t5;SOVM/DIA;2026-11-27
@@ -955,7 +955,7 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 00310;Městský úřad Sázava - Matrika;Sázava;Středočeský;49.87164;14.89674;urad@mestosazava.cz;1;epodatelna@mestosazava.cz;00236411;st9bbj3;SOVM/DIA;2026-11-27
 00337;Městský úřad Trhový Štěpánov - Matrika;Trhový Štěpánov;Středočeský;49.71147;15.01356;mesto@trhovystepanov.cz;1;"starosta@trhovystepanov.cz;mistostostarosta@trhovystepanov.cz;trh.step@quick.cz";00232874;vf6b37t;SOVM/DIA;2026-11-27
 01740;Obecní úřad Tuchoměřice - Matrika;Tuchoměřice;Středočeský;50.13543;14.28218;matrika@centrum.cz;1;ou.tuchomerice@volny.cz;00241750;uzrbxr5;SOVM/DIA;2026-11-27
-00892;Obecní úřad Tupadly - Matrika;Tupadly;Středočeský;49.86900;15.40345;starosta@tupadly.cz;1;"mistostarosta@tupadly.cz;outupadly@volny.cz;pvancurova@tupadly.cz;mhlavata@tupadly.cz;ou.tupadly@tiscali.cz";00236519;c8bbawx;SOVM/DIA;2026-11-27
+00892;Obecní úřad Tupadly - Matrika;Tupadly;Středočeský;49.86900;15.40345;starosta@tupadly.cz;1;"ou.tupadly@tiscali.cz;outupadly@volny.cz;mistostarosta@tupadly.cz;pvancurova@tupadly.cz;mhlavata@tupadly.cz";00236519;c8bbawx;SOVM/DIA;2026-11-27
 00752;Městský úřad Týnec nad Labem - Matrika;Týnec nad Labem;Středočeský;50.04202;15.35836;info@tynecnadlabem.cz;1;;00235831;927baun;SOVM/DIA;2026-11-27
 00345;Městský úřad Týnec nad Sázavou - Matrika;Týnec nad Sázavou;Středočeský;49.83348;14.58983;;;;00232904;vrpbfxs;SOVM/DIA;2026-11-27
 01732;Obecní úřad Třebotov - Matrika;Třebotov;Středočeský;49.97244;14.29127;obec@obectrebotov.cz;1;;00241741;arabayv;SOVM/DIA;2026-11-27
@@ -980,7 +980,7 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 01988;Obecní úřad Zalužany - Matrika;Zalužany;Středočeský;49.54222;14.08591;obeczaluzany@cbox.cz;1;soukup.zd@wo.cz;00243604;yyjbaek;SOVM/DIA;2026-11-27
 02186;Obecní úřad Zbečno - Matrika;Zbečno;Středočeský;50.04179;13.92036;urad@obeczbecno.cz;1;"podatelna@obeczbecno.cz;starosta@obeczbecno.cz";00244627;z7kbgxt;SOVM/DIA;2026-11-27
 00914;Obecní úřad Zbraslavice - Matrika;Zbraslavice;Středočeský;49.81179;15.18319;starosta@obeczbraslavice.cz;1;podatelna@obeczbraslavice.cz;00236641;rbkb3mw;SOVM/DIA;2026-11-27
-00493;Městský úřad Zdice - Matrika;Zdice;Středočeský;49.91207;13.97747;investice@mesto-zdice.cz;1;"mestska.policie@mesto-zdice.cz;starosta@mesto-zdice.cz;tajemnik@mesto-zdice.cz;sekretariat@mesto-zdice.cz;podatelna@mesto-zdice.cz";00234061;yagbaba;SOVM/DIA;2026-11-27
+00493;Městský úřad Zdice - Matrika;Zdice;Středočeský;49.91207;13.97747;starosta@mesto-zdice.cz;1;"sekretariat@mesto-zdice.cz;podatelna@mesto-zdice.cz;investice@mesto-zdice.cz;mestska.policie@mesto-zdice.cz;tajemnik@mesto-zdice.cz";00234061;yagbaba;SOVM/DIA;2026-11-27
 00655;Úřad městyse Zlonice - Matrika;Zlonice;Středočeský;50.28750;14.09214;o.zlonice@email.cz;1;;00235172;2npb7ae;SOVM/DIA;2026-11-27
 00922;Městský úřad Zruč nad Sázavou - Matrika;Zruč nad Sázavou;Středočeský;49.74010;15.10606;urad@mesto-zruc.cz;1;;00236667;v3qb2au;SOVM/DIA;2026-11-27
 00787;Městský úřad Zásmuky - Matrika;Zásmuky;Středočeský;49.95470;15.03058;podatelna@zasmuky.cz;2;;00235954;dcebt2t;SOVM/DIA;2026-11-27
@@ -994,7 +994,7 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 01562;Obecní úřad Červený Újezd - Matrika;Červený Újezd;Středočeský;50.06970;14.16591;matrika@cervenyujezd.com;1;"obecniurad@cervenyujezd.com;czechpoint@cervenyujezd.com;cervenyujezd@seznam.cz";00234265;u6zbe3f;SOVM/DIA;2026-11-27
 00264;Obecní úřad Čerčany - Matrika;Čerčany;Středočeský;49.85293;14.70299;epodatelna@cercany.cz;1;ou@cercany.cz;00231584;k3tbe6v;SOVM/DIA;2026-11-27
 00680;Městský úřad Český Brod - Matrika;Český Brod;Středočeský;50.07420;14.86081;podatelna@cesbrod.cz;2;cesbrod@cesbrod.cz;00235334;jgqbsve;SOVM/DIA;2026-11-27
-02011;Obecní úřad Čistá - Matrika;Čistá;Středočeský;50.02796;13.57048;cista.obecni-urad@seznam.cz;1;"info@obeccista.cz;ou.cista@seznam.cz";00243680;wxxbew7;SOVM/DIA;2026-11-27
+02011;Obecní úřad Čistá - Matrika;Čistá;Středočeský;50.02796;13.57048;cista.obecni-urad@seznam.cz;1;"ou.cista@seznam.cz;info@obeccista.cz";00243680;wxxbew7;SOVM/DIA;2026-11-27
 00825;Městský úřad Čáslav - Matrika;Čáslav;Středočeský;49.91099;15.38972;radnice@meucaslav.cz;2;;00236021;ffnbe7e;SOVM/DIA;2026-11-27
 01716;Městský úřad Řevnice - Matrika;Řevnice;Středočeský;49.91395;14.23589;starosta@revnice.cz;1;;00241636;t8fbbrn;SOVM/DIA;2026-11-27
 02151;Obecní úřad Řevničov - Matrika;Řevničov;Středočeský;50.18489;13.80823;info@revnicov.cz;1;;00244368;3t6bwp2;SOVM/DIA;2026-11-27
@@ -1022,7 +1022,7 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 07099;Městský úřad Havlíčkův Brod - Matrika;Havlíčkův Brod;Vysočina;49.60690;15.57937;posta@muhb.cz;1;epodatelna@muhb.cz;00267449;5uvbfub;SOVM/DIA;2026-11-27
 07838;Obecní úřad Herálec - Matrika;Herálec;Vysočina;49.68891;15.99431;urad@obecheralec.cz;1;"ou@heralec.cz;starosta@heralec.cz;podatelna@obecheralec.cz";00294306;vyhbedp;SOVM/DIA;2026-11-27
 07420;Městský úřad Horní Cerekev - Matrika;Horní Cerekev;Vysočina;49.32026;15.32769;podatelna@hornicerekev.cz;1;"starosta@hornicerekev.cz;vystavba@hornicerekev.cz;uctarna@hornicerekev.cz;provoz@hornicerekev.cz";00248185;xrfbd8g;SOVM/DIA;2026-11-27
-07250;Obecní úřad Horní Dubenky - Matrika;Horní Dubenky;Vysočina;49.25958;15.31700;dubenky@volny.cz;1;ou-hornidubenky@iol.cz;00285889;nx6bd8m;SOVM/DIA;2026-11-27
+07250;Obecní úřad Horní Dubenky - Matrika;Horní Dubenky;Vysočina;49.25958;15.31700;ou-hornidubenky@iol.cz;1;dubenky@volny.cz;00285889;nx6bd8m;SOVM/DIA;2026-11-27
 07439;Obecní úřad Hořepník - Matrika;Hořepník;Vysočina;49.51276;15.10596;starosta@horepnik.cz;1;podatelna@horepnik.cz;00248215;euybeb3;SOVM/DIA;2026-11-27
 07595;Městský úřad Hrotovice - Matrika;Hrotovice;Vysočina;49.10770;16.06067;mesto@hrotovice.cz;1;starostka@hrotovice.cz;00289426;3zebdza;SOVM/DIA;2026-11-27
 07447;Městský úřad Humpolec - Matrika;Humpolec;Vysočina;49.54152;15.35932;urad@mesto-humpolec.cz;1;posta@mesto-humpolec.cz;00248266;6gfbdxd;SOVM/DIA;2026-11-27
@@ -1033,7 +1033,7 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 07846;Úřad městyse Jimramov - Matrika;Jimramov;Vysočina;49.63719;16.22632;mestys@jimramov.cz;1;;00294471;pe9b4j8;SOVM/DIA;2026-11-27
 07277;Úřad městyse Kamenice - Matrika (Kraj Vysočina);Kamenice;Vysočina;49.36659;15.78023;obec.kamenice@ji.cz;2;;00286079;jhpbdr3;SOVM/DIA;2026-11-27
 07455;Městský úřad Kamenice nad Lipou - Matrika;Kamenice nad Lipou;Vysočina;49.30303;15.07519;mesto@kamenicenl.cz;1;"podatelna@kamenicenl.cz;epodatelna@kamenicenl.cz";00248380;735bwgv;SOVM/DIA;2026-11-27
-07625;Obecní úřad Kněžice - Matrika (Kraj Vysočina);Kněžice;Vysočina;49.27078;15.67216;starosta@knezice.com;1;"mistostarosta@knezice.com;ou-podatelna@knezice.com";00289591;u9ibg3n;SOVM/DIA;2026-11-27
+07625;Obecní úřad Kněžice - Matrika (Kraj Vysočina);Kněžice;Vysočina;49.27078;15.67216;starosta@knezice.com;1;"ou-podatelna@knezice.com;mistostarosta@knezice.com";00289591;u9ibg3n;SOVM/DIA;2026-11-27
 07285;Obecní úřad Kostelec - Matrika (Kraj Vysočina);Kostelec;Vysočina;49.36130;15.49067;ou-kostelec@volny.cz;1;;00286133;prnbdiw;SOVM/DIA;2026-11-27
 07463;Obecní úřad Košetice - Matrika;Košetice;Vysočina;49.55836;15.11627;obec@kosetice.cz;2;;00248444;h5hbdje;SOVM/DIA;2026-11-27
 07137;Úřad městyse Krucemburk - Matrika;Krucemburk;Vysočina;49.68841;15.85207;oukrucemburk@chnet.cz;1;;00267716;4swbdbk;SOVM/DIA;2026-11-27
@@ -1045,7 +1045,7 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 07633;Úřad městyse Mohelno - Matrika;Mohelno;Vysočina;49.11412;16.19022;obec.mohelno@tiscali.cz;1;;00289922;bf3buy5;SOVM/DIA;2026-11-27
 07641;Městský úřad Moravské Budějovice - Matrika;Moravské Budějovice;Vysočina;49.05209;15.80864;mesto@mbudejovice.cz;1;epodatelna@mbudejovice.cz;00289931;25dbcps;SOVM/DIA;2026-11-27
 07307;Úřad městyse Mrákotín - Matrika;Mrákotín;Vysočina;49.18945;15.37609;mestys.mrakotin@seznam.cz;1;;00286265;cnebhkf;SOVM/DIA;2026-11-27
-07862;Úřad městyse Měřín - Matrika;Měřín;Vysočina;49.39321;15.88381;mistostarosta@merin.cz;1;"starosta@merin.cz;podatelna@merin.cz";00294799;stabqpd;SOVM/DIA;2026-11-27
+07862;Úřad městyse Měřín - Matrika;Měřín;Vysočina;49.39321;15.88381;starosta@merin.cz;1;"podatelna@merin.cz;mistostarosta@merin.cz";00294799;stabqpd;SOVM/DIA;2026-11-27
 07480;Úřad městyse Nová Cerekev - Matrika;Nová Cerekev;Vysočina;49.41723;15.11675;e-podatelna.nc@tiscali.cz;2;nova.cerekev@quick.cz;00248720;7pdbwtp;SOVM/DIA;2026-11-27
 07315;Úřad městyse Nová Říše - Matrika;Nová Říše;Vysočina;49.13941;15.56359;obecniurad@novarise.cz;1;podatelna@novarise.cz;00286311;9udbcep;SOVM/DIA;2026-11-27
 07897;Městský úřad Nové Město na Moravě - Matrika;Nové Město na Moravě;Vysočina;49.56144;16.07418;posta@nmnm.cz;2;;00294900;y67bvir;SOVM/DIA;2026-11-27
@@ -1060,7 +1060,7 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 07510;Městský úřad Pacov - Matrika;Pacov;Vysočina;49.47076;15.00168;podatelna@mestopacov.cz;1;posta@mestopacov.cz;00248789;xbtbhcm;SOVM/DIA;2026-11-27
 07390;Městský úřad Pelhřimov - Matrika;Pelhřimov;Vysočina;49.43134;15.22336;podatelna@mupe.cz;1;;00248801;ugqb3nb;SOVM/DIA;2026-11-27
 07684;Obecní úřad Police - Matrika;Police;Vysočina;48.96562;15.63039;police.ou@quick.cz;1;e-podatelna.police@tiscali.cz;00290149;pygbbys;SOVM/DIA;2026-11-27
-07323;Městský úřad Polná - Matrika;Polná;Vysočina;49.48700;15.71881;starosta@mu-polna.cz;1;"mistostarosta@mu-polna.cz;podatelna@mu-polna.cz;tajemnik@mu-polna.cz";00286435;ss7b22h;SOVM/DIA;2026-11-27
+07323;Městský úřad Polná - Matrika;Polná;Vysočina;49.48700;15.71881;starosta@mu-polna.cz;1;"podatelna@mu-polna.cz;mistostarosta@mu-polna.cz;tajemnik@mu-polna.cz";00286435;ss7b22h;SOVM/DIA;2026-11-27
 07528;Městský úřad Počátky - Matrika;Počátky;Vysočina;49.26020;15.24022;mesto@pocatky.cz;1;epodatelna@pocatky.cz;00248843;icbbbzb;SOVM/DIA;2026-11-27
 07692;Obecní úřad Předín - Matrika;Předín;Vysočina;49.19829;15.67372;ou.predin@tiscali.cz;1;;00290181;8k9bf8m;SOVM/DIA;2026-11-27
 07161;Městský úřad Přibyslav - Matrika;Přibyslav;Vysočina;49.57684;15.73855;mesto@pribyslav.cz;2;;00268097;gw6bqx4;SOVM/DIA;2026-11-27
@@ -1069,7 +1069,7 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 07714;Obecní úřad Rouchovany - Matrika;Rouchovany;Vysočina;49.07036;16.10760;obec@rouchovany.cz;1;;00290378;t7gbqvz;SOVM/DIA;2026-11-27
 07935;Obecní úřad Rovečné - Matrika;Rovečné;Vysočina;49.57762;16.36257;starosta@rovecne.cz;2;;00295281;7grbbpm;SOVM/DIA;2026-11-27
 07943;Obecní úřad Rožná - Matrika;Rožná;Vysočina;49.47727;16.23848;ou.rozna@seznam.cz;1;ou.rozna@worldonline.cz;00295329;4bmbbn8;SOVM/DIA;2026-11-27
-07722;Obecní úřad Rudíkov - Matrika;Rudíkov;Vysočina;49.28802;15.94595;starosta@rudikov.cz;2;ou.rudikov@rudikov.cz;00290386;9xsbbmp;SOVM/DIA;2026-11-27
+07722;Obecní úřad Rudíkov - Matrika;Rudíkov;Vysočina;49.28802;15.94595;ou.rudikov@rudikov.cz;1;starosta@rudikov.cz;00290386;9xsbbmp;SOVM/DIA;2026-11-27
 07951;Úřad městyse Sněžné - Matrika;Sněžné;Vysočina;49.64552;16.12165;obec@snezne.cz;1;;00295451;uk7bbeu;SOVM/DIA;2026-11-27
 07331;Úřad městyse Stará Říše - Matrika;Stará Říše;Vysočina;49.17955;15.59477;stararise@volny.cz;1;;00286648;vcxbgan;SOVM/DIA;2026-11-27
 07340;Úřad městyse Stonařov - Matrika;Stonařov;Vysočina;49.28211;15.58563;stonarov@ji.cz;1;;00286656;ex7bz88;SOVM/DIA;2026-11-27
@@ -1080,13 +1080,13 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 07358;Městský úřad Telč - Matrika;Telč;Vysočina;49.18418;15.45275;epodatelna@telc-etc.cz;1;;00286745;c26bg9k;SOVM/DIA;2026-11-27
 07552;Městský úřad Třebíč - Matrika;Třebíč;Vysočina;49.21492;15.88166;epodatelna@trebic.cz;1;;00290629;6pub8mc;SOVM/DIA;2026-11-27
 07366;Městský úřad Třešť - Matrika;Třešť;Vysočina;49.29092;15.48211;mesto@trest.cz;1;epodatelna@trest.cz;00286753;fcxbzvc;SOVM/DIA;2026-11-27
-07994;Městský úřad Velká Bíteš - Matrika;Velká Bíteš;Vysočina;49.28204;16.21415;podatelna@vbites.cz;2;mu@vbites.cz;00295647;67zb7hf;SOVM/DIA;2026-11-27
+07994;Městský úřad Velká Bíteš - Matrika;Velká Bíteš;Vysočina;49.28204;16.21415;mu@vbites.cz;1;podatelna@vbites.cz;00295647;67zb7hf;SOVM/DIA;2026-11-27
 08001;Městský úřad Velké Meziříčí - Matrika;Velké Meziříčí;Vysočina;49.35522;16.01224;mestovm@mestovm.cz;1;podatelna@mestovm.cz;00295671;gvebwhm;SOVM/DIA;2026-11-27
 07749;Úřad městyse Vladislav - Matrika;Vladislav;Vysočina;49.21017;15.98830;ouvladislav@cbox.cz;1;;00290661;dk3baj6;SOVM/DIA;2026-11-27
 07536;Obecní úřad Vyskytná - Matrika;Vyskytná;Vysočina;49.42816;15.36552;obec@vyskytna.cz;1;"obec.vyskytna@quick.cz;podatelna.vyskytna@seznam.cz";00249416;cwybagt;SOVM/DIA;2026-11-27
 07374;Úřad městyse Větrný Jeníkov - Matrika;Větrný Jeníkov;Vysočina;49.47577;15.47885;info@vetrnyjenikov.eu;1;starosta@vetrnyjenikov.eu;00286842;fepbubs;SOVM/DIA;2026-11-27
 07404;Městský úřad Černovice - Matrika;Černovice;Vysočina;49.37265;14.96089;posta@mestocernovice.cz;2;;00248037;yb5be4u;SOVM/DIA;2026-11-27
-07412;Městský úřad Červená Řečice - Matrika;Červená Řečice;Vysočina;49.51123;15.17836;starosta@cervenarecice.info;1;"ucetni@cervenarecice.info;mistostarosta@cervenarecice.info;matrika@cervenarecice.info";00248045;5yabe39;SOVM/DIA;2026-11-27
+07412;Městský úřad Červená Řečice - Matrika;Červená Řečice;Vysočina;49.51123;15.17836;starosta@cervenarecice.info;1;"matrika@cervenarecice.info;ucetni@cervenarecice.info;mistostarosta@cervenarecice.info";00248045;5yabe39;SOVM/DIA;2026-11-27
 07579;Obecní úřad Čáslavice - Matrika;Čáslavice;Vysočina;49.15221;15.77240;oucaslavice@iol.cz;1;;00289183;fqwbryp;SOVM/DIA;2026-11-27
 07986;Úřad městyse Štěpánov nad Svratkou - Matrika;Štěpánov nad Svratkou;Vysočina;49.50489;16.33922;obec@stepanovnadsvratkou.cz;1;;00295558;zi9bbaz;SOVM/DIA;2026-11-27
 07188;Městský úřad Ždírec nad Doubravou - Matrika;Ždírec nad Doubravou;Vysočina;49.69662;15.81283;mesto@zdirec.cz;1;zdirec.nad.doubravou@kr-vysocina.cz;00268542;kg2bqmn;SOVM/DIA;2026-11-27
@@ -1103,7 +1103,7 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 10820;Obecní úřad Bánov - Matrika;Bánov;Zlínský;48.98801;17.71752;ou@obec-banov.cz;1;;00290785;v6fbfkw;SOVM/DIA;2026-11-27
 10839;Obecní úřad Bílovice - Matrika;Bílovice;Zlínský;49.09965;17.54961;obec@bilovice.cz;1;;00290793;kn3bfhs;SOVM/DIA;2026-11-27
 10669;Obecní úřad Břest - Matrika;Břest;Zlínský;49.35107;17.44072;urad@obec-brest.cz;1;starosta@obec-brest.cz;00287105;t36bfbz;SOVM/DIA;2026-11-27
-10871;Obecní úřad Březolupy - Matrika;Březolupy;Zlínský;49.12138;17.58034;obec@brezolupy.cz;1;"starosta@brezolupy.cz;mistostarosta@brezolupy.cz;matrika@brezolupy.cz;ucetni@brezolupy.cz";00290840;c69b2dg;SOVM/DIA;2026-11-27
+10871;Obecní úřad Březolupy - Matrika;Březolupy;Zlínský;49.12138;17.58034;obec@brezolupy.cz;1;"starosta@brezolupy.cz;matrika@brezolupy.cz;mistostarosta@brezolupy.cz;ucetni@brezolupy.cz";00290840;c69b2dg;SOVM/DIA;2026-11-27
 10880;Obecní úřad Březová - Matrika (Zlínský kraj);Březová;Zlínský;48.92543;17.73986;;;;;;;
 10707;Městský úřad Chropyně - Matrika;Chropyně;Zlínský;49.35644;17.36451;mesto@muchropyne.cz;1;;00287245;rbsbexq;SOVM/DIA;2026-11-27
 10715;Obecní úřad Chvalčov - Matrika;Chvalčov;Zlínský;49.38918;17.71149;obec@obec-chvalcov.cz;1;;00488895;7q8bew4;SOVM/DIA;2026-11-27
@@ -1111,7 +1111,7 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 11410;Městský úřad Fryšták - Matrika;Fryšták;Zlínský;49.28520;17.68346;podatelna@frystak.cz;1;starosta@frystak.cz;00283916;mvbbeg5;SOVM/DIA;2026-11-27
 11169;Obecní úřad Halenkov - Matrika;Halenkov;Zlínský;49.31740;18.14749;ou@halenkov.cz;1;;00303763;thgbefm;SOVM/DIA;2026-11-27
 11428;Obecní úřad Halenkovice - Matrika;Halenkovice;Zlínský;49.17102;17.47156;obec@halenkovice.cz;1;;00283932;ip7beft;SOVM/DIA;2026-11-27
-10910;Městský úřad Hluk - Matrika;Hluk;Zlínský;48.98805;17.52744;jan.simcik@mestohluk.cz;1;mesto@mestohluk.cz;00290939;uhkbyvz;SOVM/DIA;2026-11-27
+10910;Městský úřad Hluk - Matrika;Hluk;Zlínský;48.98805;17.52744;mesto@mestohluk.cz;1;jan.simcik@mestohluk.cz;00290939;uhkbyvz;SOVM/DIA;2026-11-27
 10685;Městský úřad Holešov - Matrika;Holešov;Zlínský;49.33331;17.57832;mesto@holesov.cz;1;podatelna@holesov.cz;00287172;x8qbfvu;SOVM/DIA;2026-11-27
 11177;Obecní úřad Horní Bečva - Matrika;Horní Bečva;Zlínský;49.43216;18.28859;podatelna@hornibecva.cz;1;;00303771;2wjbd9u;SOVM/DIA;2026-11-27
 11185;Obecní úřad Horní Lideč - Matrika;Horní Lideč;Zlínský;49.18121;18.06099;obec.hornilidec@tiscali.cz;2;;00303780;ukbbd73;SOVM/DIA;2026-11-27
@@ -1131,10 +1131,10 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 10723;Městský úřad Koryčany - Matrika;Koryčany;Zlínský;49.10639;17.16433;mesto@korycany.cz;1;podatelna@korycany.cz;00287334;3p3bdj7;SOVM/DIA;2026-11-27
 10960;Obecní úřad Kostelany nad Moravou - Matrika;Kostelany nad Moravou;Zlínský;49.04538;17.40693;starosta@kostelanynadmoravou.cz;1;ou@kostelanynadmoravou.cz;00291048;kkibdhh;SOVM/DIA;2026-11-27
 10731;Obecní úřad Kostelec u Holešova - Matrika;Kostelec u Holešova;Zlínský;49.37469;17.51213;obeckuh@volny.cz;1;;00287342;bs9bdhn;SOVM/DIA;2026-11-27
-10650;Městský úřad Kroměříž - Matrika;Kroměříž;Zlínský;49.29785;17.39312;meu@mesto-kromeriz.cz;1;starostka@mesto-kromeriz.cz;00287351;bg2bfur;SOVM/DIA;2026-11-27
-10979;Městský úřad Kunovice - Matrika;Kunovice;Zlínský;49.04499;17.47011;kunovice@mesto-kunovice.cz;1;"ou@obec-kunovice.cz;ekunovice@mesto-uh.cz";00567892;djzbz2k;SOVM/DIA;2026-11-27
+10650;Městský úřad Kroměříž - Matrika;Kroměříž;Zlínský;49.29785;17.39312;starostka@mesto-kromeriz.cz;1;meu@mesto-kromeriz.cz;00287351;bg2bfur;SOVM/DIA;2026-11-27
+10979;Městský úřad Kunovice - Matrika;Kunovice;Zlínský;49.04499;17.47011;ou@obec-kunovice.cz;1;"kunovice@mesto-kunovice.cz;ekunovice@mesto-uh.cz";00567892;djzbz2k;SOVM/DIA;2026-11-27
 10740;Obecní úřad Kvasice - Matrika;Kvasice;Zlínský;49.24223;17.46974;starosta@kvasice.cz;1;;00287385;quhbdab;SOVM/DIA;2026-11-27
-11266;Obecní úřad Lešná - Matrika;Lešná;Zlínský;49.52055;17.93004;obec-lesna@obec-lesna.cz;1;"starosta@obec-lesna.cz;matrika@obec-lesna.cz;ucetni@obec-lesna.cz;mistostarostka@obec-lesna.cz;sekretariat@obec-lesna.cz";00303992;fc5bc77;SOVM/DIA;2026-11-27
+11266;Obecní úřad Lešná - Matrika;Lešná;Zlínský;49.52055;17.93004;obec-lesna@obec-lesna.cz;1;"starosta@obec-lesna.cz;matrika@obec-lesna.cz;sekretariat@obec-lesna.cz;ucetni@obec-lesna.cz;mistostarostka@obec-lesna.cz";00303992;fc5bc77;SOVM/DIA;2026-11-27
 10758;Úřad městyse Litenčice - Matrika;Litenčice;Zlínský;49.20220;17.20842;obec.litencice@seznam.cz;1;;00287431;xjhbcz9;SOVM/DIA;2026-11-27
 11274;Obecní úřad Loučka - Matrika;Loučka;Zlínský;49.43869;17.83266;obecloucka@volny.cz;1;"cajanova@obecloucka.cz;palousova@obecloucka.cz";00568643;75vbqwa;SOVM/DIA;2026-11-27
 11444;Městský úřad Luhačovice - Matrika;Luhačovice;Zlínský;49.09982;17.75747;podatelna@mesto.luhacovice.cz;2;e-podatelna@mesto.luhacovice.cz;00284165;m35bcw4;SOVM/DIA;2026-11-27
@@ -1145,20 +1145,20 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 10995;Obecní úřad Nedakonice - Matrika;Nedakonice;Zlínský;49.03159;17.38141;obecnedakonice@iol.cz;1;;00291153;puvbzf2;SOVM/DIA;2026-11-27
 11487;Obecní úřad Nedašov - Matrika;Nedašov;Zlínský;49.10778;18.07036;obec.nedasov@volny.cz;1;matrika.nedasov@volny.cz;00284246;4wbbcii;SOVM/DIA;2026-11-27
 11002;Obecní úřad Nivnice - Matrika;Nivnice;Zlínský;48.97465;17.64757;ou@ou.nivnice.cz;1;;00291170;8k6bsjq;SOVM/DIA;2026-11-27
-11282;Úřad městyse Nový Hrozenkov - Matrika;Nový Hrozenkov;Zlínský;49.33697;18.19793;starosta@novyhrozenkov.cz;1;"mistostarosta@novyhrozenkov.cz;matrika@novyhrozenkov.cz;ucetni@novyhrozenkov.cz";00304131;squbcc4;SOVM/DIA;2026-11-27
+11282;Úřad městyse Nový Hrozenkov - Matrika;Nový Hrozenkov;Zlínský;49.33697;18.19793;starosta@novyhrozenkov.cz;1;"matrika@novyhrozenkov.cz;mistostarosta@novyhrozenkov.cz;ucetni@novyhrozenkov.cz";00304131;squbcc4;SOVM/DIA;2026-11-27
 11010;Obecní úřad Ostrožská Lhota - Matrika;Ostrožská Lhota;Zlínský;48.97559;17.46751;ostrlhota@uh.cz;1;;00291196;uhsbb7u;SOVM/DIA;2026-11-27
 11029;Obecní úřad Ostrožská Nová Ves - Matrika;Ostrožská Nová Ves;Zlínský;49.00434;17.43632;podatelna@onves.cz;1;;00291200;jqhbb7y;SOVM/DIA;2026-11-27
 11037;Úřad městyse Osvětimany - Matrika;Osvětimany;Zlínský;49.05577;17.24968;starosta@osvetimany.cz;1;;00291218;5cqbgy8;SOVM/DIA;2026-11-27
 11495;Městský úřad Otrokovice - Matrika;Otrokovice;Zlínský;49.20934;17.53944;radnice@muotrokovice.cz;1;epodatelna@muotrokovice.cz;00284301;jfrb7zs;SOVM/DIA;2026-11-27
-11045;Úřad městyse Polešovice - Matrika;Polešovice;Zlínský;49.03390;17.34064;info@polesovice.cz;1;"starosta@polesovice.cz;mistostarosta@polesovice.cz;stavurad@polesovice.cz;matrika@polesovice.cz;podatelna@polesovice.cz";00291251;yrrbbyp;SOVM/DIA;2026-11-27
+11045;Úřad městyse Polešovice - Matrika;Polešovice;Zlínský;49.03390;17.34064;info@polesovice.cz;1;"starosta@polesovice.cz;matrika@polesovice.cz;podatelna@polesovice.cz;mistostarosta@polesovice.cz;ucetni@polesovice.cz";00291251;yrrbbyp;SOVM/DIA;2026-11-27
 11053;Obecní úřad Prakšice - Matrika;Prakšice;Zlínský;49.06890;17.63303;obec@praksice.cz;1;;00291277;k3mb3u2;SOVM/DIA;2026-11-27
 10774;Obecní úřad Rajnochovice - Matrika;Rajnochovice;Zlínský;49.41299;17.81316;obec@rajnochovice.cz;1;;00287661;gx5bbtq;SOVM/DIA;2026-11-27
-11290;Obecní úřad Ratiboř - Matrika;Ratiboř;Zlínský;49.36769;17.91499;ratibor.matrika@volny.cz;1;ou.ratibor@volny.cz;00304263;24bb368;SOVM/DIA;2026-11-27
+11290;Obecní úřad Ratiboř - Matrika;Ratiboř;Zlínský;49.36769;17.91499;ou.ratibor@volny.cz;1;ratibor.matrika@volny.cz;00304263;24bb368;SOVM/DIA;2026-11-27
 11304;Městský úřad Rožnov pod Radhoštěm - Matrika;Rožnov pod Radhoštěm;Zlínský;49.45853;18.14302;podatelna@roznov.cz;1;starosta@roznov.cz;00304271;epqbwzr;SOVM/DIA;2026-11-27
-11312;Obecní úřad Růžďka - Matrika;Růžďka;Zlínský;49.39395;17.99559;obec@ruzdka.cz;1;ou_ruzdka@volny.cz;00304280;y6hbbmt;SOVM/DIA;2026-11-27
+11312;Obecní úřad Růžďka - Matrika;Růžďka;Zlínský;49.39395;17.99559;ou_ruzdka@volny.cz;1;obec@ruzdka.cz;00304280;y6hbbmt;SOVM/DIA;2026-11-27
 11509;Městský úřad Slavičín - Matrika;Slavičín;Zlínský;49.08799;17.87349;podatelna@mesto-slavicin.cz;1;;00284459;jsub2vd;SOVM/DIA;2026-11-27
-11517;Městský úřad Slušovice - Matrika;Slušovice;Zlínský;49.24782;17.80150;mesto@slusovice.cz;1;"mistostarosta@slusovice.cz;matrika@slusovice.cz;ekonom@slusovice.cz;stavebni@slusovice.cz";00284475;72db32d;SOVM/DIA;2026-11-27
-11061;Městský úřad Staré Město - Matrika (Zlínský kraj);Staré Město;Zlínský;49.07515;17.43338;meusm@staremesto.uh.cz;1;podatelna@staremesto.uh.cz;00567884;8tvb3cp;SOVM/DIA;2026-11-27
+11517;Městský úřad Slušovice - Matrika;Slušovice;Zlínský;49.24782;17.80150;mesto@slusovice.cz;1;"matrika@slusovice.cz;mistostarosta@slusovice.cz;ekonom@slusovice.cz;stavebni@slusovice.cz";00284475;72db32d;SOVM/DIA;2026-11-27
+11061;Městský úřad Staré Město - Matrika (Zlínský kraj);Staré Město;Zlínský;49.07515;17.43338;podatelna@staremesto.uh.cz;2;meusm@staremesto.uh.cz;00567884;8tvb3cp;SOVM/DIA;2026-11-27
 11070;Obecní úřad Starý Hrozenkov - Matrika;Starý Hrozenkov;Zlínský;48.96587;17.86301;urad@staryhrozenkov.cz;1;;00291331;dhnbbc6;SOVM/DIA;2026-11-27
 11088;Obecní úřad Strání - Matrika;Strání;Zlínský;48.90216;17.70671;strani@strani.cz;1;;00291340;32aba8z;SOVM/DIA;2026-11-27
 11533;Obecní úřad Tlumačov - Matrika;Tlumačov;Zlínský;49.25351;17.49559;epodatelna@tlumacov.cz;2;tlumacov@tlumacov.cz;00284572;xgybaz2;SOVM/DIA;2026-11-27
@@ -1198,7 +1198,7 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 05380;Městský úřad Chlumec - Matrika;Chlumec;Ústecký;50.69972;13.93964;;;;00391387;6s9b7ua;SOVM/DIA;2026-11-27
 04740;Magistrát města Chomutova - Matrika;Chomutov;Ústecký;50.46048;13.41779;podatelna@chomutov.cz;2;;00261891;497beyz;SOVM/DIA;2026-11-27
 05258;Městský úřad Dubí - Matrika;Dubí;Ústecký;50.68558;13.78561;info@mesto-dubi.cz;1;jmeno@mesto-dubi.cz;00266281;fg8bwb3;SOVM/DIA;2026-11-27
-05266;Městský úřad Duchcov - Matrika;Duchcov;Ústecký;50.60376;13.74621;podatelna@mu.duchcov.cz;2;mu@duchcov.cz;00266299;jeabei3;SOVM/DIA;2026-11-27
+05266;Městský úřad Duchcov - Matrika;Duchcov;Ústecký;50.60376;13.74621;mu@duchcov.cz;1;podatelna@mu.duchcov.cz;00266299;jeabei3;SOVM/DIA;2026-11-27
 04642;Magistrát města Děčín - Matrika;Děčín;Ústecký;50.78215;14.21478;posta@mmdecin.cz;1;;00261238;x9hbpfn;SOVM/DIA;2026-11-27
 05185;Městský úřad Hora Svaté Kateřiny - Matrika;Hora Svaté Kateřiny;Ústecký;50.60631;13.43672;obecni.urad@horasvatekateriny.cz;1;starosta@horasvatekateriny.cz;00265934;pm9beby;SOVM/DIA;2026-11-27
 04871;Obecní úřad Horní Beřkovice - Matrika;Horní Beřkovice;Ústecký;50.35869;14.34648;matrika@obechorniberkovice.cz;1;"starosta@obechorniberkovice.cz;kancelar.uradu@obechorniberkovice.cz;uctarna@bechorniberkovice.cz";00263621;ur6brrf;SOVM/DIA;2026-11-27
@@ -1223,7 +1223,7 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 04901;Obecní úřad Liběšice - Matrika;Liběšice;Ústecký;50.56886;14.28906;obec@libesice.cz;1;"obeclibesice@seznam.cz;knobova@libesice.cz";00263893;smfbc54;SOVM/DIA;2026-11-27
 04839;Městský úřad Litoměřice - Matrika;Litoměřice;Ústecký;50.53348;14.13180;epodatelna@litomerice.cz;1;podatelna@litomerice.cz;00263958;tpebfnu;SOVM/DIA;2026-11-27
 05207;Městský úřad Litvínov - Matrika;Litvínov;Ústecký;50.60420;13.61812;info@mulitvinov.cz;1;podatelna@mulitvinov.cz;00266027;8tybqzk;SOVM/DIA;2026-11-27
-05215;Městský úřad Lom - Matrika;Lom;Ústecký;50.59328;13.65729;meu@mesto-lom.cz;1;podatelna@mesto-lom.cz;00266035;47nbcyq;SOVM/DIA;2026-11-27
+05215;Městský úřad Lom - Matrika;Lom;Ústecký;50.59328;13.65729;podatelna@mesto-lom.cz;2;meu@mesto-lom.cz;00266035;47nbcyq;SOVM/DIA;2026-11-27
 05029;Městský úřad Louny - Matrika;Louny;Ústecký;50.35699;13.79667;info@mulouny.cz;1;podatelna@mulouny.cz;00265209;gc9bxmk;SOVM/DIA;2026-11-27
 04928;Městský úřad Lovosice - Matrika;Lovosice;Ústecký;50.51504;14.05103;meulovo@meulovo.cz;2;;00263991;ytbbs49;SOVM/DIA;2026-11-27
 05088;Obecní úřad Lubenec - Matrika;Lubenec;Ústecký;50.13207;13.31319;epodatelna@lubenec.cz;2;lubenec@iol.cz;00265217;7npbcwt;SOVM/DIA;2026-11-27
@@ -1236,7 +1236,7 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 05100;Úřad městyse Panenský Týnec - Matrika;Panenský Týnec;Ústecký;50.29492;13.91695;matrika@panenskytynec.cz;1;starosta@panenskytynec.cz;00265314;wytbb5w;SOVM/DIA;2026-11-27
 05118;Úřad městyse Peruc - Matrika;Peruc;Ústecký;50.34250;13.95986;info@peruc.cz;1;podatelna@peruc.cz;00265331;zfubb3z;SOVM/DIA;2026-11-27
 04790;Obecní úřad Perštejn - Matrika;Perštejn;Ústecký;50.38166;13.11020;orsuliak@obec-perstejn.cz;1;"kovalik@obec-perstejn.cz;cejhonova@obec-perstejn.cz;chodounska@obec-perstejn.cz;szappanosova@obec-perstejn.cz";00262072;985bb3v;SOVM/DIA;2026-11-27
-05401;Obecní úřad Petrovice - Matrika (Ústecký kraj);Petrovice;Ústecký;50.78902;13.97614;podatelna_petrovice@volny.cz;2;ou-petrovice@volny.cz;00266922;63zbb2g;SOVM/DIA;2026-11-27
+05401;Obecní úřad Petrovice - Matrika (Ústecký kraj);Petrovice;Ústecký;50.78902;13.97614;ou-petrovice@volny.cz;1;podatelna_petrovice@volny.cz;00266922;63zbb2g;SOVM/DIA;2026-11-27
 05126;Městský úřad Podbořany - Matrika;Podbořany;Ústecký;50.22937;13.41192;info@podborany.net;1;podatelna@podborany.net;00265365;fh4btis;SOVM/DIA;2026-11-27
 04944;Obecní úřad Polepy - Matrika;Polepy;Ústecký;50.50563;14.26447;ou.polepy@seznam.cz;1;;00264202;jpibrbc;SOVM/DIA;2026-11-27
 05134;Městský úřad Postoloprty - Matrika;Postoloprty;Ústecký;50.35979;13.70291;mu@postoloprty.cz;1;;00265403;2nsbuxb;SOVM/DIA;2026-11-27
@@ -1244,7 +1244,7 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 04804;Obecní úřad Radonice - Matrika;Radonice;Ústecký;50.29803;13.28464;obec.radonice@iol.cz;1;;00262111;bbybbu9;SOVM/DIA;2026-11-27
 04952;Městský úřad Roudnice nad Labem - Matrika;Roudnice nad Labem;Ústecký;50.42528;14.26175;starosta@roudnicenl.cz;1;"mesto@roudnicenl.cz;epodatelna@roudnicenl.cz";00264334;qdwbviv;SOVM/DIA;2026-11-27
 04707;Městský úřad Rumburk - Matrika;Rumburk;Ústecký;50.95151;14.55699;starosta@rumburk.cz;1;"sekretariat@rumburk.cz;epodatelna@rumburk.cz;tajemnik@rumburk.cz";00261602;sdrbhgg;SOVM/DIA;2026-11-27
-05339;Obecní úřad Světec - Matrika;Světec;Ústecký;50.57613;13.81159;podatelna.svetec@volny.cz;2;ou.svetec@volny.cz;00266612;hrmba5z;SOVM/DIA;2026-11-27
+05339;Obecní úřad Světec - Matrika;Světec;Ústecký;50.57613;13.81159;ou.svetec@volny.cz;1;podatelna.svetec@volny.cz;00266612;hrmba5z;SOVM/DIA;2026-11-27
 05231;Magistrát města Teplice - Matrika;Teplice;Ústecký;50.64040;13.82451;posta@teplice.cz;2;;00266621;nmrb49w;SOVM/DIA;2026-11-27
 04979;Městský úřad Terezín - Matrika;Terezín;Ústecký;50.51100;14.15055;podatelna@terezin.cz;1;tajemnik@terezin.cz;00264474;mucbtkh;SOVM/DIA;2026-11-27
 05436;Městský úřad Trmice - Matrika;Trmice;Ústecký;50.64286;13.99449;posta@mutrmice.cz;2;;00674010;gdfbaxc;SOVM/DIA;2026-11-27
@@ -1257,7 +1257,7 @@ kod_uradu;nazev_uradu;obec;kraj;lat;lon;email;email_typ;email_alternativy;ico;id
 04731;Městský úřad Velký Šenov - Matrika;Velký Šenov;Ústecký;50.99078;14.37428;mesto@velkysenov.cz;2;;00261734;ea6bang;SOVM/DIA;2026-11-27
 05355;Úřad městského obvodu Ústí nad Labem-město - Matrika;Ústí nad Labem;Ústecký;50.66070;14.03227;podatelna.mesto@mag-ul.cz;2;"Darina.Kalinicova@mag-ul.cz;Tomas.Kirbs@mag-ul.cz";00081531;28kbykx;SOVM/DIA;2026-11-27
 05363;Úřad městského obvodu Ústí nad Labem-Neštěmice - Matrika;Ústí nad Labem;Ústecký;50.66070;14.03227;podatelna.nestemice@mag-ul.cz;2;;;3qxbasv;SOVM/DIA;2026-11-27
-05002;Městský úřad Úštěk - Matrika;Úštěk;Ústecký;50.58474;14.34332;tajemnik@mesto-ustek.cz;1;"elisek@mesto-ustek.cz;sulik@mesto-ustek.cz;sprava.majetku@mesto-ustek.cz;ott@mesto-ustek.cz;masata@mesto-ustek.cz";00264571;45tbuvd;SOVM/DIA;2026-11-27
+05002;Městský úřad Úštěk - Matrika;Úštěk;Ústecký;50.58474;14.34332;stavebni.urad@mesto-ustek.cz;1;"evidence.obyvatel@mesto-ustek.cz;tajemnik@mesto-ustek.cz;elisek@mesto-ustek.cz;sulik@mesto-ustek.cz;sprava.majetku@mesto-ustek.cz";00264571;45tbuvd;SOVM/DIA;2026-11-27
 04669;Městský úřad Česká Kamenice - Matrika;Česká Kamenice;Ústecký;50.79780;14.41767;podatelna@ceska-kamenice.cz;2;"e-podatelna@ceska-kamenice.cz;tajemnik@ceska-kamenice.cz";00261220;cu5bsdg;SOVM/DIA;2026-11-27
 05428;Obecní úřad Řehlovice - Matrika;Řehlovice;Ústecký;50.60712;13.95412;starosta@rehlovice.cz;1;"podatelna@rehlovice.cz;kalinova@rehlovice.cz;hruskova@rehlovice.cz;novakova@rehlovice.cz;svatonova@rehlovice.cz";00266981;bazbqym;SOVM/DIA;2026-11-27
 04715;Městský úřad Šluknov - Matrika;Šluknov;Ústecký;51.00369;14.45258;urad@mesto-sluknov.cz;1;podatelna@mesto-sluknov.cz;00261688;8jkbbf3;SOVM/DIA;2026-11-27

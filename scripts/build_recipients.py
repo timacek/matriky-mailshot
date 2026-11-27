@@ -51,25 +51,13 @@ COLUMNS = [
 ]
 
 # Instituce mívají víc schránek; rolovou bereme před jmennou, ať mail dojde podatelně.
-ROLE_MARKERS = (
-    "matrik",
-    "podatel",
-    "e-podatel",
-    "e-posta",
-    "posta",
-    "urad",
-    "obec",
-    "mesto",
-    "mestys",
-    "info",
-    "sekret",
-    "starost",
-    "kancelar",
-    "radnic",
-    "evid",
-    "podani",
-    "ou@",
+# Porovnává se jen část před @ a po rozdělení na slova — jinak by "katerina.moravcova@mesto.example.com"
+# vypadala jako rolovka kvůli doméně a "kourim@…" kvůli slabice.
+ROLE_PREFIXES = (
+    "matrik", "podatel", "podani", "epodatel", "posta", "urad", "obec", "mesto", "mestys",
+    "info", "sekret", "starost", "kancelar", "radnic", "evid",
 )
+ROLE_EXACT = {"ou", "mu", "oku"}
 
 
 def norm(value: str | None) -> str:
@@ -104,12 +92,22 @@ def is_office_type(subject_type: str | None) -> bool:
     return any(marker in value for marker in OFFICE_TYPES)
 
 
+def is_role_mailbox(email: str) -> bool:
+    """Role mailbox = the local part names a function (matrika@, podatelna@), not a person.
+
+    Only the part before @ counts and it is split into words, so `novak@mesto.example.com` stays a
+    person while `obec.babice@…` does not.
+    """
+    local = (email or "").split("@", 1)[0].lower()
+    words = local.replace(".", " ").replace("_", " ").replace("-", " ").split()
+    if any(word in ROLE_EXACT for word in words):
+        return True
+    return any(word.startswith(prefix) for word in words for prefix in ROLE_PREFIXES)
+
+
 def looks_personal(email: str) -> bool:
-    """Heuristic only for the report: prijmeni@ or jmeno.prijmeni@ outside role mailboxes."""
-    local = email.split("@", 1)[0].lower()
-    if any(marker in local for marker in ROLE_MARKERS):
-        return False
-    return "." in local or local.isalpha()
+    """For the report: an address that is not a role mailbox."""
+    return bool(email) and not is_role_mailbox(email)
 
 
 def fetch_index(source: str, timeout: int = 180) -> bytes:
@@ -197,7 +195,7 @@ def choose_emails(candidates: list[dict]) -> tuple[str, str, str, str, str]:
 
     def rank(item: tuple[str, str]) -> tuple[int, int]:
         address, typ = item
-        role = 0 if any(marker in address.lower() for marker in ROLE_MARKERS) else 1
+        role = 0 if is_role_mailbox(address) else 1
         return role, 0 if typ == "1" else 1
 
     ordered.sort(key=rank)
